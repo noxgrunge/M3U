@@ -1,3 +1,29 @@
+#EXTM3U
+
+#EXTINF:-1, BOLIVISION LA PAZ HD
+https://d3eyooyk041snj.cloudfront.net/hls/live_480p30.m3u8
+
+#EXTINF:-1, ATB LA PAZ HD
+https://stream-02.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOsvijUxebVWA9fiMjRfhmusLHNQlvUDFLLaVInchfFRg)/dm/3/x84eirw/s/live-3.m3u8
+
+#EXTINF:-1, BOLIVIA TV 7.1 HD
+http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
+
+#EXTINF:-1, BOLIVIA TV 7.2 HD
+https://video1.getstreamhosting.com:1936/8224/8224/chunklist_w898112372.m3u8
+
+#EXTINF:-1, CADENA A LA PAZ HD
+https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/chunklist_w770861617.m3u8
+
+#EXTINF:-1, XTO TV LA PAZ HD
+http://136.243.3.70:1935/XtoTv/XtoTv/playlist.m3u8
+
+#EXTINF:-1, RTP LA PAZ HD
+http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w722858052.m3u8
+
+#EXTINF:-1, ERBOL LA PAZ HD
+https://cloud2.streaminglivehd.com:1936/8182/8182/chunklist_w816985919.m3u8
+
 #EXTINF:-1, SEO TV LA PAZ HD
 https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8
 
@@ -42,4 +68,5 @@ https://master.tucableip.com/live/tvlatinamontero/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, FACETAS TV SANTA CRUZ HD
 https://master.tucableip.com//ftv/tracks-v1a1/mono.m3u8
+
 
