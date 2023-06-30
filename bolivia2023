@@ -1,8 +1,8 @@
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStbj1Bo5lVtfzv48OuWYOu8vmmulvtY6wxiPzx09jQoZPFP5-IHqoGcfeJD86s1CdsPQ8&usqp=CAU", BOLIVISION LA PAZ HD
+#EXTINF:-1, BOLIVISION LA PAZ HD
 https://d3eyooyk041snj.cloudfront.net/hls/live_480p30.m3u8
 
-#EXTINF:-1 tvg-chno="2", ATB LA PAZ HD
-https://stream-02.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOsvijUxebVWA9fiMjRfhmusLHNQlvUDFLLaVInchfFRg)/dm/3/x84eirw/s/live-3.m3u8
+#EXTINF:-1, ATB LA PAZ HD
+https://stream-03.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOna0tb8EhzvE-XC3M_F3cHfFx23IEwDS8QTXNaPN-P8j)/dm/3/x84eirw/s/live-3.m3u8
 
 #EXTINF:-1 tvg-chno="3", BOLIVIA TV 7.1 HD
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
@@ -32,7 +32,7 @@ https://video.live.com.bo:3731/live/tvuumsalive.m3u8
 https://master.tucableip.com/abyayalatv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, PACEÑISIMA TV LA PAZ
-https://xhateaec.com:8800/hls/Pacenisima/Pacenisima/3c785d5325afcee35172f17d9d38b29a/index.m3u8
+https://xhateaec.com:8800/hls/Pacenisima/Pacenisima/703ae3fe9cf0b9a99744bbeb70dbbceb/index.m3u8
 
 #EXTINF:-1, CEA COM ORURO HD
 https://cloud2.streaminglivehd.com:1936/ceacom/ceacom/chunklist_w1433952623.m3u8
@@ -53,13 +53,13 @@ https://solo.disfrutaenlared.com:1936/tutv/tutv/chunklist_w2025525300.m3u8
 https://vdo.grupolimalive.com:3688/live/albertlive.m3u8
 
 #EXTINF:-1, RED UNO SANTA CRUZ HD
-https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLkjQy00ncDqlSDa94xIhWtRZkg53Y1E_odm9R8dB7iVn)/dm/3/x825whp/d/live-3.m3u8
+https://stream-03.sv4.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLtN5IExICZIugf0Gm70pQpzOSX70bGMNnYPQ9n7gKSXN)/dm/3/x825whp/d/live-3.m3u8
 
 #EXTINF:-1,RED ADEVENIR SANTA CRUZ HD
 https://streamer1.streamhost.org/salive/GMIredadvenirh/chunklist_w497868593.m3u8
 
 #EXTINF:-1, RED PAT SANTA CRUZ HD
-https://w8.redpat.tv:7777/play/110/69895724.m3u8
+https://w8.redpat.tv:7777/play/110/64756635.m3u8
 
 #EXTINF:-1, TV LATINA SANTA CRUZ HD
 https://master.tucableip.com/live/tvlatinamontero/tracks-v1a1/mono.m3u8
