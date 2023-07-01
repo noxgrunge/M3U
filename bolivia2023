@@ -7,7 +7,7 @@ http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 #EXTINF:-1, BOLIVIA TV 7.2 HD
 https://video1.getstreamhosting.com:1936/8224/8224/chunklist_w898112372.m3u8
 
-#EXTINF:-1, CADENA A LA PAZ HD
+#EXTINF:-1, CADENA A LA PAZ HD (Not 27/4)
 https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/chunklist_w770861617.m3u8
 
 #EXTINF:-1, XTO TV LA PAZ HD
@@ -34,7 +34,7 @@ https://xhateaec.com:8800/hls/Pacenisima/Pacenisima/703ae3fe9cf0b9a99744bbeb70db
 #EXTINF:-1, CEA COM ORURO HD
 https://cloud2.streaminglivehd.com:1936/ceacom/ceacom/chunklist_w1433952623.m3u8
 
-#EXTINF:-1, MARVISION POTOSI HD
+#EXTINF:-1, MARVISION POTOSI HD (Not 27/4)
 https://vdo.grupolimalive.com:3631/live/marvisionlive.m3u8
 
 #EXTINF:-1, UNIVALLE TV COCHABAMBA HD
@@ -43,7 +43,7 @@ https://master.tucableip.com/univalletv/tracks-v1a1/mono.m3u8
 #EXTINF:-1, MEGA TV PUNATA HD
 https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/chunklist_w1175624870.m3u8
 
-#EXTINF:-1, TU TV TARIJA HD
+#EXTINF:-1, TU TV TARIJA HD (Not 27/4)
 https://solo.disfrutaenlared.com:1936/tutv/tutv/chunklist_w2025525300.m3u8
 
 #EXTINF:-1, MEGA TV YACUIBA HD
@@ -59,13 +59,13 @@ https://master.tucableip.com/live/tvlatinamontero/tracks-v1a1/mono.m3u8
 https://master.tucableip.com//ftv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, UNITEL SANTA CRUZ HD
-https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAly625Z0xGKaA_vhkdRDxAMRPXvmI7_aQ9w1zmoGVibx4)/dm/3/x7wzxiw/s/live-3.m3u8
+https://stream-03.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl-uankmqAyyghZqUhOHV47m-g0Zf7IiKDovdkG-V_h9f)/dm/3/x7wzxiw/s/live-3.m3u8#cell=lnyc
 
 #EXTINF:-1, ATB SANTA CRUZ HD
-https://stream-01.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOvt34E6_sOBefwz5uhQPGAtn9ECiwi2Kpfx8D5p_yNXr)/dm/3/x84t82c/s/live-3.m3u8#cell=lnyc
+https://stream-02.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOovQdBzA0dMMjPVXOpAdGKRFXknY2vzhMwjdm7YboWIa)/dm/3/x84eirw/s/live-3.m3u8#cell=lnyc
 
 #EXTINF:-1, RED UNO SANTA CRUZ HD
-https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLjPMw8qNC_VsdW1NnelJtq-QHZKX6VTsas9GR7MFMtYP)/dm/3/x825whp/d/live-3.m3u8#cell=lnyc
+https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLsk-lHC5UsS9OJEI8qvsh4W9emLqk4fuqL88axZATDLo)/dm/3/x825whp/d/live-3.m3u8#cell=lnyc
 
 #EXTINF:-1, RED PAT SANTA CRUZ HD
-https://w8.redpat.tv:7777/play/110/64756635.m3u8
+https://w8.redpat.tv:7777/play/110/18839641.m3u8
