@@ -1,3 +1,11 @@
+#EXTINF:-1 tvg-logo="" group-title="", 
+
+ARGENTINA
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgisXY0d88GP7xrtoBUOwwim1YJkQZ-ZOj99glNZkkEQTjGXbCdVXUk_ViTOf7aAH28NoTar2wp90bwia16R-sL_0stZbJdI48aU8JtMMSzE33tdLD0T3ZZcmf7HGGTDJJ1stAsNeEK5A5iKFo_pHLK7uAISsyEQb4EoaQbQw5kTLA8MvLyrz4MwafWn_IL/s320/AR%20El%20Nueve.png" group-title="Argentina", El Nueve
+https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/2863033b-5e9c-4cff-a173-6b35346da299/5.m3u8
+
+
+
 BOLIVIA
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMlzFRhh142P-dzwMChY9T0XQXIoQxpm28Mq0WxL2bzs1SjgoOzQigH-u8u5VKcH6EtMHfWbW3G-RaWVD2ofqlN-LV0XprmbYr2Xxwd63WaOB0F5s3Tmm3KqITlyMbRBAQZw9S_r5IGS8wyBRpsHVWEe81_rZ2t0zwARYN_pRqV-hkHw3RQEvZU9EYHe2I/s576/Bolivision.png" group-title="Bolivia", Bolivision La Paz HD
 https://d3eyooyk041snj.cloudfront.net/hls/live_480p30.m3u8
@@ -375,11 +383,69 @@ https://i.mjh.nz/PlutoTV/636e83511fa9600007e5ae19-alt.m3u8
 
 
 MÚSICA
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6047fabfce6e8e00070bcc9f/colorLogoPNG.png" group-title="Música" , MTV Biggest Pop
-https://i.mjh.nz/PlutoTV/6047fabfce6e8e00070bcc9f-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6047fd723b5bd00007de7092/colorLogoPNG.png" group-title="Música" , MTV Spankin' New
-https://i.mjh.nz/PlutoTV/6047fd723b5bd00007de7092-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5873fc21cad696fb37aa9054/colorLogoPNG.png" group-title="Música" , Live Music Replay
+https://i.mjh.nz/PlutoTV/5873fc21cad696fb37aa9054-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/colorLogoPNG.png" group-title="Música" , Vevo '70s
+https://i.mjh.nz/PlutoTV/5f32f26bcd8aea00071240e5-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/colorLogoPNG.png" group-title="Música" , Vevo '80s
+https://i.mjh.nz/PlutoTV/5fd7b8bf927e090007685853-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/colorLogoPNG.png" group-title="Música" , Vevo '90s
+https://i.mjh.nz/PlutoTV/5fd7bb1f86d94a000796e2c2-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/colorLogoPNG.png" group-title="Música" , Vevo 2K
+https://i.mjh.nz/PlutoTV/5fd7bca3e0a4ee0007a38e8c-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f68f53eb1e5800007390bf8/colorLogoPNG.png" group-title="Música" , CMT Equal Play
+https://i.mjh.nz/PlutoTV/5f68f53eb1e5800007390bf8-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/623b92a2ccefed0007b1db48/colorLogoPNG.png" group-title="Música" , XITE Classic Country
+https://i.mjh.nz/PlutoTV/623b92a2ccefed0007b1db48-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/colorLogoPNG.png" group-title="Música" , Vevo Country
+https://i.mjh.nz/PlutoTV/5da0d75e84830900098a1ea0-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png" group-title="Música" , Yo! MTV
+https://i.mjh.nz/PlutoTV/5d14fc31252d35decbc4080b-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61d4c2817a823d00070ba53e/colorLogoPNG.png" group-title="Música" , Vevo True School Hip-Hop
+https://i.mjh.nz/PlutoTV/61d4c2817a823d00070ba53e-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/colorLogoPNG.png" group-title="Música" , Vevo R&B
+https://i.mjh.nz/PlutoTV/5da0d83f66c9700009b96d0e-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61d4b38226b8a50007fe03a6/colorLogoPNG.png" group-title="Música" , Vevo Retro Rock
+https://i.mjh.nz/PlutoTV/61d4b38226b8a50007fe03a6-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/623a1b5188ecdc0007c9ef5a/colorLogoPNG.png" group-title="Música" , XITE Rock
+https://i.mjh.nz/PlutoTV/623a1b5188ecdc0007c9ef5a-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png" group-title="Música" , Vevo Pop
+https://i.mjh.nz/PlutoTV/5d93b635b43dd1a399b39eee-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d14fdb8ca91eedee1633117/colorLogoPNG.png" group-title="Música" , MTV Spankin' New
+https://i.mjh.nz/PlutoTV/5d14fdb8ca91eedee1633117-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png" group-title="Música" , MTV Biggest Pop
+https://i.mjh.nz/PlutoTV/5d14fd1a252d35decbc4080c-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d3609cd6a6c78d7672f2a81/colorLogoPNG.png" group-title="Música" , MTV Block Party
+https://i.mjh.nz/PlutoTV/5d3609cd6a6c78d7672f2a81-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/623b93628e6ded0007337d4d/colorLogoPNG.png" group-title="Música" , XITE Gospel
+https://i.mjh.nz/PlutoTV/623b93628e6ded0007337d4d-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f779951372da90007fd45e8/colorLogoPNG.png" group-title="Música" , Classica
+https://i.mjh.nz/PlutoTV/5f779951372da90007fd45e8-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5da0d64d0e8a62000964ebe4/colorLogoPNG.png" group-title="Música" , Vevo Latino
+https://i.mjh.nz/PlutoTV/5da0d64d0e8a62000964ebe4-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f32f397795b750007706448/colorLogoPNG.png" group-title="Música" , Vevo Reggaeton & Trap
+https://i.mjh.nz/PlutoTV/5f32f397795b750007706448-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f85ca40eda1b10007b967cd/colorLogoPNG.png" group-title="Música" , Conciertos por Stingray
 https://i.mjh.nz/PlutoTV/5f85ca40eda1b10007b967cd-alt.m3u8
@@ -493,6 +559,30 @@ https://i.mjh.nz/PlutoTV/600728952b1776000776526d-alt.m3u8
 
 
 
+PERÚ
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8p2W-OcF88bqsYeTxi5TNQbByrib8CMK9exuwOBF3SxjlNESsENJ4nfEWi7iIFLFXHkWNxa0RZbWBysxN_QjEtk6Jpjw3chtnR4i_i3W9n99zQbjDb2WrupRl2MzFc5SCPt5HuoMLLEpFoiQGjDJC0gyxUab3qHwkEf0r8U0_8GIslYMK77OmKy4_ofhw/s320/PER%20TV%20Peru.png" group-title="Peru", TV Perú
+https://dy8y8vcruqztn.cloudfront.net/out/v1/ee2450c81e554f4cae0e6292106993c2/index_3.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL6BBArba_NyFb_QB2yfxT9rzbOIpI34R4k4NtJNSLS4sxFq53YKg-7wF0gNYquOiM4fK4-4oCaRXGxomrs7CItaU0viKwQeDIMd0iPn3gMSxGMcwc_fUU41jv7V5_QBlNV9P-VMtk3WDpdspBx01lTx0-_WsXkWM37kav8QQN6-nnCzHPGkr149O4J1Zk/s320/PER%20Best%20Cable.png" group-title="Peru", Best Cable TV
+https://ca2.inka.net.pe/BesTv-0011200001/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5hpedrcSC4WySULG-6RNhy5LVg0bhO6O9NZidp0mtr2sOx5_t4Eag1tH0qm1ozbxVsT3f7v4ag0Jh2I6sq47BlClXei_DHoFEKg8QmgiLuQNChrg2Bk_1sAw-pdcM3-GKSmBLlZ9udX5qMSjFpEppCqw2r9yaPRc31qB136UFObmrsKj_I87ZNHBSmpxt/s320/PER%20Cable%20Vision.png" group-title="Peru", Cable Vision
+https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/chunklist_w1865065636.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEga1EHhc72QVVEtHzfhY41FyHAPzZHXuch1KQXlHsfhhevvij20HFY42m6Db4q3aFXHaJMqaG-4q8LJgjUzw5khSOA3g3W9RldN9g22BjwnxX3otiTCKvCmPOF6YqWE2w-lXk8bgJ5m8quuWRDMrq1NmjigSE2hDJKg8CHjSjpScMrTwVE1_Yx3sRIjD5K5/s320/PER%20Vision%20TV.png" group-title="Peru", Visión TV
+https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/chunklist_w1113789722.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUHMu5odHnMNyICHO1UAYSlAq3YrBJ87O0AtPUE9t1R9ryT_FvSwjqmPxEnCIuiLM4bEX9TMU9l0mWZeyHGdvJqMyQkc7hyGnXfH4087o3Rld9CrXgCYQBvaLWE-dbeN5KT0VG4l8B6uXLdISERpe_L6f3proPn2lOwj3iKyLpmaDC9kUpcYQV4zN1UUyC/s320/PER%20Karibe%C3%B1a%20TV.png" group-title="Peru", Karibeña TV
+https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsul3T9on1ECN_DSekHrCGZg6r9oYFZSCRkN6E4FlshwezNmFBmzjSqqoNF4K-KLsqXlRUGA3vUAT-UFOXL2JRJ_pSa25Wl8siVoBSTHzp0NFEGmSQrFyp7aTlY9El7YZpNORnqCZuY_ep0IBKV-KTx49ZUvwPcPEuYSMKhxBd2endpfPpXn_B7TKDLQCS/s320/PER%20Via.png" group-title="Peru", Vía Televisión
+https://multimedia.tmcreativos.com:1936/viatelevision/viatelevision/chunklist_w116967565.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAacOtc04jdHwFs5yvHZMTPRGJpTkHtBdl-7ublekxSxj3WHmhzHwNEP_AZgzZZzyTiHbqjfClz2y4gGa2tYLKB9y1BAMAPdoeTOO14Cq6AYN14b0pRAxpn55vR83vaIu8oRQlDfAItIN8yhTOfsMsBAXM45zbcK_o1lt_T561Aur-tKpL3dZ-jo_5eQUN/s320/PER%20Antares.png" group-title="Peru", Antares Televisión
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w1176826542.m3u8
+
+
+
 
 REALITY
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde197f6591d0009839e04/colorLogoPNG.png" group-title="Reality" , Pluto TV Reality
@@ -521,6 +611,48 @@ https://i.mjh.nz/PlutoTV/620fd9f4afb9a80007a9c6d5-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/625461ef01f27a0007976ad1/colorLogoPNG.png" group-title="Reality" , MTV Catfish
 https://i.mjh.nz/PlutoTV/625461ef01f27a0007976ad1-alt.m3u8
+
+
+
+RELIGION
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSbehrqkClkA1ZjfrOk92-HFrqxOOlpyCjZf_j3p11oCO0MasbQQrkA41qgaO8_8k7e0zqHu1wLoYIeaOnm3tYi8L2LKXvdPX68NoCRya5__78difc2ATqqT-iaL4H6C4P6vQKk6kRmgBnXE5anT9J39Yaslnj2ggokemEovjtLKfSlTR8U6ZMtGMkkxwV/s320/RE%20Televida%20Network.png" group-title="Religión", Teve Vida Network USA
+https://5bf8041cb3fed.streamlock.net/Tevevida/Tevevida/chunklist_w582195384.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjR4IMTDgbtMTudFQ0zu9sBVc_D0GDmeiBV7eG_JaEjw95VatpCqWGyvkjOxLO586SmmghSl4OHEVoJ9qgB4vk3GeqbxTRMF9Hrn0hvvn2Bc3qAA6M_0zoTPN0nW6rbalbWdCrD8DSqRVpNEW_xcFva9xTZ0qaCuqXi8GiQoH-2oiUB3Akn9uaFsn0ui0ge/s320/RETelevida.png" group-title="Religión", Televida HD Chile
+https://tls-cl.cdnz.cl/televida/live/chunklist_w382226940.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhef_gU23vn9RvRc1_sr13bhAkEXeoYH5kM9XbBDB3A-w-atmD7IBQkYQCpQmyIum1d_uTXPWAuJzOC5MlU4_ZBp-0mtfJQwssJPjcJH5ua14YItW89JRpSCuwrdvPSrxqcHY66wZFJbTxzeFKpH5RcstG7DwUYpWP87ItNoFEDpZzLBDhh0pEyZmXKvO55/s320/RE%20Ebenezer.png" group-title="Religión", Ebenezer TV Honduras
+https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/chunklist_w2012966156_b3128000.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX8rq7BfieozjMWEOVbs4NQr85R6OUisz4MExo_SOvL4WaPWUkI0dCWkPGtmwr5YZ_gHz-Tg3IwnXi22punsB0t-uxRJFwj4jCKpHlZpC6Z5ioz9XShMRZxk1hs09YPHxYXBvUvRAh23gY6y1TLMWjaFSHshV2K0ct8o0Rt3niRCctoUGcZlWc35goywkq/s320/XTO%20TV.png" group-title="Religión", XTO TV Bolivia
+http://136.243.3.70:1935/XtoTv/XtoTv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiry4mOM2HmUIlayYw0csh67TNd2w3icZhUAoQBsM5p4KAdgo7nzeuI3RPFkhvs5Cv4_op7BSlXLrjxuPRDeFvgrikMf3Vsn3l0SPfWcCdwy8gbwIEu4CWf9FuYcOKo-rOX_vgB7xtnAyrcAV3acQNyrM6Vz41Z0ZdYp1OA90bLmfxbj4sQg324I8_2sfau/s320/RE%20Enlace.png" group-title="Religión", Enlace TV Costa Rica
+https://11554-1.b.cdn13.com/EnlaceTV/smil:enlace-hd.smil/chunklist_b2752000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk3ehzf7655tWK2oslNYh7oGmmQUZksYVCraLwY89VnHhefOsimSEXv7vSq6mR1FOoh6s6pT-QUl3aBbsIa5bxKu0sTPsG7CW2Uxm_fhSd-2221MrvgMG4bCq0zgkWjn_CxFlO_dOinedkCG5XrxB7dWcuPRtym0Nn-TTF4xrdNI78pPJ2_KCUfHaE-mSn/s320/RE%20Tu%20Universo%20TV.png" group-title="Religión", Tu Universo TV Colombia
+https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/chunklist_w782733661.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIK5RgmS2GvS2J8ZOWHJ8bZMoY8C_bbuj3_iBPq16NavC6ums_eKib3xd5BukAYnjHv8d1eAX4zN8fZ9oDCNUdGYVk5mThlqcXFvMuuCDDWj5nOkLkQ_gvJczrd53xG3G2rfyJhZbz7iUefd6xuSV2Pd3JL33aM9Kj0p82o5kj1LJ76imIDdBCVa3QorO3/s320/RE%20Nacion%20TV.png" group-title="Religión", Nación TV Houston
+https://pop-ts.iptv-global.net/NacionTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLikIqa7ApUBjLKyomgnp68K-nyz1BSs4pD1AFRM8QX_3seYohi95v7KL0RkH-bNsBLFjgPbKHCm097TUaJyi7O2Z0aaAV5Vm9z1XUmno-3NX17IH3luDNyVcjM3gYtGoam7RRI0B6VeZraWYR_4JShIo-ESyYZBPyB9HjTdkp0VHq6KvjC24TxJGHPPwv/s320/RE%20TBN%20Espa%C3%B1a.png" group-title="Religión", TBN España
+https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlFhrbdbXNlzn6pQWoV7XC2o1j0Zeh-qdpy5ZOjPC90m-ed4swMKWhdB-Ul4QzGwFKVyn5t8-1p21DmpJS8L33YLIq1iiPc-R3Ra36qUKKx7LjcVkDQ4ekiXlCqT29SRMQ0vEMfe-8lLhUCAWPnTT3Ra71dfAGaOd5RPqEDqydOCmZup-q5_inci0yj4G3/s320/RE%20Extrema%20TV.png" group-title="Religión", Extrema TV Costa Rica
+https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w995340441.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8KBwLTryeVEOZ_T0MbPpwUfsSV7ZhhLfqfUmTPpx3n4mIcuESVa0GtbU_cC4OB5IjFAlJE2bP3_UZ8f5liyH9dPqKYDKf4Xhum-j9eMIOmYI0nPTV4UZOTSxpumYBgHDprn41Il0hnd1tO3wdxG0dqoR-fnvhEIXADleV2fDacNY5yNFClA7wk-WFz6pB/s320/RE%20Enlace%20Juvenil.png" group-title="Religión", Enlace Juvenil Costa Rica
+https://11554-1.b.cdn13.com/EJTV/smil:ejtv-hd.smil/chunklist_b2752000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijBwH7FoGjSn6LdLUCbOmpHHoKFn9CViGUujPfHL5JrrvLSrxzBkBVC-d8Ql456qs9gxGUo-JbBin7ji_8mgecb0hXKiclstlLNxK-X5RIOhkcdKf4JoOIIA6g30aBx_s4Y8Nt8y9iNxgSmzQfvoFLTT_NOQ9IEEHL3P84rcWIcXq7Bj4xbNIlJh7ywsXf/s320/RE%20Asomavision.png" group-title="Religión", Asomavisión Ecuador
+https://asomatv.duckdns.org/livestream/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgt48Qee-B9TEdcr_Gn8PuOLWe_Dh2WiE6c4lrgm_pogUxDiYIBPwoN13Ck52MCpa_nZqperq654FJujtqeLFShhKI_nmoa5cilHssUiXanWJqUgRDOWDLTn4ZBHYgEb1S7_w1v0MUOY2XFe_cs26YcuZ4B0ZJWARIWz62--jLeH3xb6Qs7qOYxwvmZggHM/s320/RE%20El%20Camino.png" group-title="Religión", El Camino TV El Salvador
+https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/chunklist_w718326823.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmPXkm-ae0ORlYglNmQslzaktDVScfhouS0RuthF3HZDHKW2-Fm6f1fjw7oU_H02ZMztHQvtFMJnkwThWgkEVAVMdGr9ZjwMFPdlRBfdx7HL2gjtblwVN-IGdJxtwr_bIAOSFWTGR1LIAg23p6pW9hyjI5D2JzL2o4zVD99PSBC_RXVavLn92w4OJxDs8O/s320/RE%20Spirit%20TV.png" group-title="Religión", Spirit TV USA
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
 
 
 
@@ -642,133 +774,6 @@ https://i.mjh.nz/PlutoTV/5dd6de52b9914200091f047a-alt.m3u8
 
 
 
-
-
-#EXTINF:-1, EL NUEVE ARGENTINA
-https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/2863033b-5e9c-4cff-a173-6b35346da299/5.m3u8
-
-#EXTINF:-1, TV PERU
-https://dy8y8vcruqztn.cloudfront.net/out/v1/ee2450c81e554f4cae0e6292106993c2/index_3.m3u8
-
-
-
-#EXTINF:-1, BEST CABLE TV PERU
-https://ca2.inka.net.pe/BesTv-0011200001/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, CABLE VISION PERU
-https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/chunklist_w1865065636.m3u8
-
-#EXTINF:-1, VISIÓN MÚSICA PERU
-https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/chunklist_w1113789722.m3u8
-
-#EXTINF:-1, KARIBEÑA TV PERU
-https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8
-
-#EXTINF:-1, VÍA TELEVISIÓN PERU
-https://multimedia.tmcreativos.com:1936/viatelevision/viatelevision/chunklist_w116967565.m3u8
-
-#EXTINF:-1, ANTARES TELEVISIÓN PERU
-https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w1176826542.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1, TEVE VIDA NETWORK USA
-https://5bf8041cb3fed.streamlock.net/Tevevida/Tevevida/chunklist_w582195384.m3u8
-
-
-#EXTINF:-1, TELEVIDA HD CHILE
-https://tls-cl.cdnz.cl/televida/live/chunklist_w382226940.m3u8
-
-#EXTINF:-1, EBENEZER TV HD HONDURAS
-https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/chunklist_w2012966156_b3128000.m3u8
-
-#EXTINF:-1, ENLACE TV COSTA RICA
-https://11554-1.b.cdn13.com/EnlaceTV/smil:enlace-hd.smil/chunklist_b2752000_sleng.m3u8
-
-#EXTINF:-1, TU UNIVERSO TV COLOMBIA
-https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/chunklist_w782733661.m3u8
-
-#EXTINF:-1, NACIÓN TV HOUSTON USA
-https://pop-ts.iptv-global.net/NacionTV/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, TBN ESPAÑA
-https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8
-
-#EXTINF:-1, EXTREMA TV COSTA RICA
-https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w995340441.m3u8
-
-#EXTINF:-1, ENLACE JUVENIL COSTA RICA
-https://11554-1.b.cdn13.com/EJTV/smil:ejtv-hd.smil/chunklist_b2752000_sleng.m3u8
-
-#EXTINF:-1, ASOMAVISIÓN ECUADOR
-https://asomatv.duckdns.org/livestream/stream.m3u8
-
-#EXTINF:-1, EL CAMINO TV EL SALVADOR
-https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/chunklist_w718326823.m3u8
-
-#EXTINF:-1, SPIRIT TV USA
-https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
-
-
-
-
-#EXTINF:-1, LIVE MUSIC REPLAY HD
-https://i.mjh.nz/PlutoTV/5873fc21cad696fb37aa9054-alt.m3u8
-
-#EXTINF:-1, VEVO 70s
-https://i.mjh.nz/PlutoTV/5f32f26bcd8aea00071240e5-alt.m3u8
-
-#EXTINF:-1, VEVO 80s
-https://i.mjh.nz/PlutoTV/5fd7b8bf927e090007685853-alt.m3u8
-
-#EXTINF:-1, VEVO 90s
-https://i.mjh.nz/PlutoTV/5fd7bb1f86d94a000796e2c2-alt.m3u8
-
-#EXTINF:-1, VEVO 2K
-https://i.mjh.nz/PlutoTV/5fd7bca3e0a4ee0007a38e8c-alt.m3u8
-
-#EXTINF:-1, CMT EQUAL PLAY HD
-https://i.mjh.nz/PlutoTV/5f68f53eb1e5800007390bf8-alt.m3u8
-
-#EXTINF:-1, XITE CLASSIC COUNTRY HD
-https://i.mjh.nz/PlutoTV/623b92a2ccefed0007b1db48-alt.m3u8
-
-#EXTINF:-1, VEVO COUNTRY HD
-https://i.mjh.nz/PlutoTV/5da0d75e84830900098a1ea0-alt.m3u8
-
-#EXTINF:-1, YO! MTV HD
-https://i.mjh.nz/PlutoTV/5d14fc31252d35decbc4080b-alt.m3u8
-
-#EXTINF:-1, VEVO TRUE SCHOOL HIP HOP HD
-https://i.mjh.nz/PlutoTV/61d4c2817a823d00070ba53e-alt.m3u8
-
-#EXTINF:-1, VEVO R&B HD
-https://i.mjh.nz/PlutoTV/5da0d83f66c9700009b96d0e-alt.m3u8
-
-#EXTINF:-1, VEVO RETRO ROCK HD
-https://i.mjh.nz/PlutoTV/61d4b38226b8a50007fe03a6-alt.m3u8
-
-#EXTINF:-1, XITE ROCK
-https://i.mjh.nz/PlutoTV/623a1b5188ecdc0007c9ef5a-alt.m3u8
-
-#EXTINF:-1, VEVO POP
-https://i.mjh.nz/PlutoTV/5d93b635b43dd1a399b39eee-alt.m3u8
-
-#EXTINF:-1, CLASSICA HD
-https://i.mjh.nz/PlutoTV/5f779951372da90007fd45e8-alt.m3u8
-
-#EXTINF:-1, VEVO LATINO HD
-https://i.mjh.nz/PlutoTV/5da0d64d0e8a62000964ebe4-alt.m3u8
-
-#EXTINF:-1, VEVO REGGAETON & TRAP HD
-https://i.mjh.nz/PlutoTV/5f32f397795b750007706448-alt.m3u8
-
-#EXTINF:-1, MUSIC TOP
-https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1447576222_b2028000_sleng.m3u8
 
 
 
