@@ -1,5 +1,3 @@
-#EXTINF:-1 tvg-logo="" group-title="", 
-
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/colorLogoPNG.png" group-title="Animales" , Pluto TV Animales
 https://i.mjh.nz/PlutoTV/5dd834c66fe2ca0009303b8d-alt.m3u8
 
@@ -121,7 +119,7 @@ https://d3eyooyk041snj.cloudfront.net/hls/live_480p30.m3u8
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJo2xtpYBnAU9s_zmgDfGlgWGIzaVH8zb4wHaBZ8TepwsPnOO1dqtO3k2FDxody0X-sE0L461jgboNdTF6y9KIyYPPDqYrE1nEc_Q2VNxK-FWe7xEARhm18lpFGzf1RMoc4Iz5Zak28l4amXsChpjogWnRZHOCn2LfAKx72nHWf7C6R2j2tWkU5VKIBI0H/s320/Bolivia%20TV%202.png" group-title="Bolivia", Bolivia TV 7.2 HD
-https://video1.getstreamhosting.com:1936/8224/8224/chunklist_w898112372.m3u8
+https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvw9CFO6nub7PnvPuw1XgP5PecJRSvBxho-JvEKbwME8VIwzjL18DgeMK1yByi2zCnu4utGMQIkPCc-cvbgoBu69AlaTeTtFf-0WFRD2v_zoTzjurnqvvBHwIDaoWB9xX8JA1itmUhtjL0UkqhBBHwYlYetmfZd1_TFRpkdULlfOrSYGG4KL3diGdM1b1E/s320/Cadena%20A.png" group-title="Bolivia", Cadena A La Paz HD (Not 27/4)
 https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/chunklist_w770861617.m3u8
@@ -135,8 +133,17 @@ http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w722858052.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnJq0FVwVz7N8QJIug3M59hC13tIWQJN949UvqwWsKuTlhZlDtRez0LsA1lVeapbFRWfkn6k-KNKA5htoBnQFhKjnBPEX1GSxaNGksQk8kkU-xSUoZ-SbaItH1Mb9Tpa3prC6n_xNlP-dmB15_xJmLrujXR7kAxJibaAzSlJETk-XEnyZ3_DIn-5Z7aJ6o/s320/ERBOL.png" group-title="Bolivia", Erbol La Paz HD
 https://cloud2.streaminglivehd.com:1936/8182/8182/chunklist_w816985919.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOLH92_t6MZlWA2Y-grz5OcwhOwX1x0Ec-9PPVYyECbZDkk9AapSsZDgXaErXpJvRmITbJfamn6wGHJy7g9mtvuZvNGunQoUljlbHVDzE5GbxKLX6ujBWpkw5fZ3CGO-WjkpYvb6Q7vDuZGYszQPzSWwSQKQwdL4x5YzjTEMUxmyu6Ic1R_8MJ21pG1Xfi/s576/SEO%20TV.png" group-title="Bolivia", SEO TV La Paz HD
-https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOLH92_t6MZlWA2Y-grz5OcwhOwX1x0Ec-9PPVYyECbZDkk9AapSsZDgXaErXpJvRmITbJfamn6wGHJy7g9mtvuZvNGunQoUljlbHVDzE5GbxKLX6ujBWpkw5fZ3CGO-WjkpYvb6Q7vDuZGYszQPzSWwSQKQwdL4x5YzjTEMUxmyu6Ic1R_8MJ21pG1Xfi/s576/SEO%20TV.png" group-title="Bolivia", SEO TV 1 La Paz HD
+https://live.seo.tv.bo/live/1SEO.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidSIMX56mVarJB_1YZGm1wrz7xoBLp43FLxccLrH4eD7jrEt4N9HuFyKevIwjKRVTh1uxT-fRVEL99hHyDFq8ioqhMQ_TC7hwPfMa4EgdAxp_SIlNhVnvaY_SLBj1dojkhbmHdNeIrtNkm3Fk6VrYcSGvESkU83oxGCkIeIE4iExfyDi8igX0EPSuU_EuO/s320/BO%20Seo%20Kids.png" group-title="Bolivia", SEO TV 2 Kids La Paz HD
+https://live.seo.tv.bo/live/2SEO.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3mY_E2MzL1KBYKRtkiuT_KFz4dHZ8AU-_576eqWd11dEzcL2roQDlU3oEMhBwsdNarbDC4SBQ70IIDBdHkXGgrUL3U3G70IM7G_wRtjIyzebu60n1U3689IWTG1maTriFQgIZeAfHMsbDB2VjFHjb1T5pyi3fX1jruwHZj1uv5xs66gGpPsbtUBemkMzx/s320/BO%20Seo%20Nov.png" group-title="Bolivia", SEO TV 3 Novelas La Paz HD
+https://live.seo.tv.bo/live/3SEO.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBiX5t5gWl8QSYfzJxwYwJOPaxcRU9tIZFQmuteFceZHkzI3KnElV1-K6bbvPV1jJkk_ms0Sz_CE6Zfk9GnS9CD6AsCERhmAzKICBxMloF0eeT8vMZ8wM5YVm6_eZIsHOs26YgDMODL0-di2yyWuvmOm_ovGzhGgM9fgd4Nz5DKI4DBvCAVjs3NjIJNFsD/s320/BO%20Seo%20Peli.png" group-title="Bolivia", SEO TV 4 Peliculas La Paz HD
+https://live.seo.tv.bo/live/4SEO.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_NwjYiWwa6rl4uw7WvIGdp5ddxv_BufjPWA3GF_2I3Wag1EL2PQssWqcCE4Z43ZMUIcjE3LmO8pbtE-TwZ9qPU7otez0yovq8_FL9QxmhZWew11VFW7sjylzMD7FL5y-weACBnNixromU4nVxW7vs87kOqnF422e3MSNLFZZI7pV0UCU1TQO-oELs_RrA/s320/TVU.png" group-title="Bolivia", TVU La Paz HD
 https://video.live.com.bo:3731/live/tvuumsalive.m3u8
@@ -146,6 +153,15 @@ https://master.tucableip.com/abyayalatv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiA5yNVS4s81JcnXbZNFAGRyQtisC1bII0IYWa45djJubjALk9YnxxROzlgLJNK_GrMxioYJkD6yIb5a2woKJsIrLsrEmf9LoH0CFa6YU6OFvKv_B3-xNrPZb2kaaLKFaob-lD0-m2wmB3vZrBxwW3Wvez_yv4SXVW6prtMusudcCSTeBRfA-9BpyyBdjk/s320/Pace%C3%B1isima%20TV.png" group-title="Bolivia", Paceñisima TV La Paz
 https://xhateaec.com:8800/hls/Pacenisima/Pacenisima/703ae3fe9cf0b9a99744bbeb70dbbceb/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguq8bp58vxJ_n6rgsB0zgciW69nd6knQVBT7noeHdwsLQMDfE_zVTa_F-P5cA-NyB001gMnWE1EHpdFs_tOLVXKxHQp7AcaWahBGYuuBQ0FVnlHxUNritg3zd7OPDhQIfqKxWCohW2968Cn9F1Zx7AbXxoMf2juQEwNgfQqYcCqgiyVqRxvUvP8KkB2YJe/s320/BO%20Solidaria%20TV.png" group-title="Bolivia", Solidaria TV La Paz
+https://tv.bitstreaming.net:3073/live/solidariatvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhc-YduSN-UiZlsTy7q-jzHHiK1DNJ4zmJlL3dw3hMrSe1LtDsthrg5maTVElOI_F0k7ks1pg3VPC35UX40ueTQ9hQSY-GFdbbwz1KXmwmUL01Tyh0wF5iOdabntXgWIpM9SkTt0kH51-B99iZHv8fY55zw5i_ayNeLNyUQBJvFDTZJSJ5cawUrNtlczbbC/s320/BO%20DT%20PLAY.png" group-title="Bolivia", DT Play TV La Paz
+https://tv.portalexpress.es:3044/live/dtplaylive.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-Ffl8vsda2OD-Bi_iN0QJYgfGgP4lx70Ppum7wRfgg4Fig4SYbjD2dKExMe3PyEQM7m_EpvhT8Vmn9Lw5EWu_l-X-nk_nzcDBMSGoYPGGWkOPMbJag3mPi6DXWQLl6l0bIKXjH_5ZyPpRzjdLKCMcXgDvQEGeHT8kV2SoN7YxYMnpVrjqMNlwbmcnX2sK/s320/BO%20F10.png" group-title="Bolivia", F10 HD
+https://video.live.com.bo:3253/live/f10hdlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGLbfcxO1H0tL6__l_4EoPRGtvFA3dcOxPI4mIfT4y6Gh27rc_Hdq4BrHl_9tFs58Z0U6W8USvmpu3rbYeS1PjLaKpGIV6x2JX9w9kDaIV6EhcmT6naDJ2A74DSQrxfIQQyhanNC8Y5KYPw_raO5eFdNqHLH5DYj73o777yFMOEyH1_j2v7BYNS0n8lVv4/s320/CEA%20Com.png" group-title="Bolivia", CEA COM Oruro HD
 https://cloud2.streaminglivehd.com:1936/ceacom/ceacom/chunklist_w1433952623.m3u8
@@ -173,6 +189,9 @@ https://master.tucableip.com/live/tvlatinamontero/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgENYX2-Gkfzk-Od5kOBnj5BVkJS3eVFNF8uNXqsODcNkiLNHMz4MXkiiurJmKpsOt6iZpf1ROnq8Sgm2tKJe3sfRjMDjL0wwGQpjUsAfg1QxyH3k7xCVDtJGGQjL7svEux71vEtpDS7_VgqQwVl4TZXhyHCrYF_n9o-cFLfKnJAJuMryq_f7Dad-3hteEl/s320/FTV.png" group-title="Bolivia", Facetas TV Santa Cruz HD
 https://master.tucableip.com//ftv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6pLEB_oSfCtlOB1Kq8bSA6h1NmLQUr8roAC1RTRDP4IP-ybqjrbvqKNWZSsYzf_NhlTgPQyt5XcmvBoaASJ2Mw5DybZnSl0XUfGpO3ktdnPS28fGMrF2VnPZ8XvDb8hbGu15ZtU470NzV3y8b979Je-syJikz30-ZpJwGMOY-1TvZVgfjrR0y_a3a8QB7/s320/BO%20TV%20Tropical.png" group-title="Bolivia", TV Tropical Santa Cruz HD 
+https://cloud3.streaminglivehd.com:1936/8068/8068/chunklist_w1241532496.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5Zx7pI_BRgHNSUs8eboVsrlJgdt9QM9pDUgb3IpAa25kaVrZehn1559JEUN3SaGCXbS3AztDKVZpUDnzDqAqShBgRHddwDT1dVj7gdY7f7Kx13D3pjyBjWNADsd1VjKTWqY_5P1vAUudZ8Y7mHHdMmJ70oG2kn-xsi2-SsQqujvgJPcp9OzHagnQnq1lj/s320/Unitel.png" group-title="Bolivia", Unitel Santa Cruz HD
 https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZW9xcLU_g-NzNIlkbq89xzuA2NQi-lszqdbJdstyR9gk)/dm/3/x7vsezg/d/live-3.m3u8#cell=lnyc
@@ -1166,6 +1185,9 @@ https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/chunklist_w718326823.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmPXkm-ae0ORlYglNmQslzaktDVScfhouS0RuthF3HZDHKW2-Fm6f1fjw7oU_H02ZMztHQvtFMJnkwThWgkEVAVMdGr9ZjwMFPdlRBfdx7HL2gjtblwVN-IGdJxtwr_bIAOSFWTGR1LIAg23p6pW9hyjI5D2JzL2o4zVD99PSBC_RXVavLn92w4OJxDs8O/s320/RE%20Spirit%20TV.png" group-title="Religión", Spirit TV USA
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguq8bp58vxJ_n6rgsB0zgciW69nd6knQVBT7noeHdwsLQMDfE_zVTa_F-P5cA-NyB001gMnWE1EHpdFs_tOLVXKxHQp7AcaWahBGYuuBQ0FVnlHxUNritg3zd7OPDhQIfqKxWCohW2968Cn9F1Zx7AbXxoMf2juQEwNgfQqYcCqgiyVqRxvUvP8KkB2YJe/s320/BO%20Solidaria%20TV.png" group-title="Religión", Solidaria TV Bolivia
+https://tv.bitstreaming.net:3073/live/solidariatvlive.m3u8
+
 
 
 
@@ -1306,5 +1328,3 @@ https://i.mjh.nz/PlutoTV/5dd6de52b9914200091f047a-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEip-ra-sRgDVcTJY7PhwP2Bhb2XbyiiK50KZGHJfBZ9PnEcl64rpKzDh3TAuLjvzxlfgCE3ddOEeZFfhp0Ciesq_tYtnuctjmAigWNHF0_5PO6MpNgR99Rc9cPR9K4VAyv_aybKGhzDdH13GUQOH-1fLb-7WfyLTeyibgsH31PtYUdFJCgtgzwy9f_0p4us/s320/VE%20Promar.png" group-title="Venezuela", Promar TV
 http://vcp1.myplaytv.com/promar/promar/chunklist_w1487678880.m3u8
-
-
