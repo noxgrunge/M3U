@@ -60,33 +60,6 @@ https://i.mjh.nz/PlutoTV/632c6df43d2bc5000751f621-alt.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62154548a2be360007cb02f0/colorLogoPNG.png" group-title="Autos" , Ice Pilots
-https://i.mjh.nz/PlutoTV/62154548a2be360007cb02f0-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6dc7480e3550009133d4a/colorLogoPNG.png" group-title="Autos" , Pluto TV Velocidad
-https://i.mjh.nz/PlutoTV/5dd6dc7480e3550009133d4a-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60e5ea9a9bb4200008376f76/colorLogoPNG.png" group-title="Autos" , Motorvision TV
-https://i.mjh.nz/PlutoTV/60e5ea9a9bb4200008376f76-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60d356a534f63f000850cdd7/colorLogoPNG.png" group-title="Autos" , Top Gear España
-https://i.mjh.nz/PlutoTV/60d356a534f63f000850cdd7-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6080345ebb49b90007ce0baf/colorLogoPNG.png" group-title="Autos" , Pluto TV Motor España
-https://i.mjh.nz/PlutoTV/6080345ebb49b90007ce0baf-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6076c74daa05ac0007d0eb07/colorLogoPNG.png" group-title="Autos" , Tuning España
-https://i.mjh.nz/PlutoTV/6076c74daa05ac0007d0eb07-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60f1673d0e4370000784dc61/colorLogoPNG.png" group-title="Autos" , FUEL TV España
-https://i.mjh.nz/PlutoTV/60f1673d0e4370000784dc61-alt.m3u8
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60492d5522166000071a73c8/colorLogoPNG.png" group-title="Argentina", Telefe noticias
 https://i.mjh.nz/PlutoTV/60492d5522166000071a73c8-alt.m3u8
 
@@ -110,6 +83,33 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0079
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizzAK6M894YvrVsUMeS-9_Q4FdDYsrzURAMpMuBonaYQcb-SMO7quM_pI5BqcsMaTzYE7WY1-emzqFNhoxlTH_3nWHjEqZP-HTyr3A64VpKMxWy2vTbgYA8xvVCwaxwBKE7IB08bhdqxHmkU-LOtX6L9lm55romgFEx7nHl-nq7eCpYXTPLJ4iPHBnQFAh/s320/AR%20Canal%204%20Esquel.png" group-title="Argentina", Canal 4 Esquel
 http://streaming.arcast.com.ar:1935/canal4esquel/canal4esquel/chunklist_w1345773721.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62154548a2be360007cb02f0/colorLogoPNG.png" group-title="Autos" , Ice Pilots
+https://i.mjh.nz/PlutoTV/62154548a2be360007cb02f0-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6dc7480e3550009133d4a/colorLogoPNG.png" group-title="Autos" , Pluto TV Velocidad
+https://i.mjh.nz/PlutoTV/5dd6dc7480e3550009133d4a-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60e5ea9a9bb4200008376f76/colorLogoPNG.png" group-title="Autos" , Motorvision TV
+https://i.mjh.nz/PlutoTV/60e5ea9a9bb4200008376f76-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60d356a534f63f000850cdd7/colorLogoPNG.png" group-title="Autos" , Top Gear España
+https://i.mjh.nz/PlutoTV/60d356a534f63f000850cdd7-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6080345ebb49b90007ce0baf/colorLogoPNG.png" group-title="Autos" , Pluto TV Motor España
+https://i.mjh.nz/PlutoTV/6080345ebb49b90007ce0baf-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6076c74daa05ac0007d0eb07/colorLogoPNG.png" group-title="Autos" , Tuning España
+https://i.mjh.nz/PlutoTV/6076c74daa05ac0007d0eb07-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60f1673d0e4370000784dc61/colorLogoPNG.png" group-title="Autos" , FUEL TV España
+https://i.mjh.nz/PlutoTV/60f1673d0e4370000784dc61-alt.m3u8
+
 
 
 
@@ -1306,3 +1306,5 @@ https://i.mjh.nz/PlutoTV/5dd6de52b9914200091f047a-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEip-ra-sRgDVcTJY7PhwP2Bhb2XbyiiK50KZGHJfBZ9PnEcl64rpKzDh3TAuLjvzxlfgCE3ddOEeZFfhp0Ciesq_tYtnuctjmAigWNHF0_5PO6MpNgR99Rc9cPR9K4VAyv_aybKGhzDdH13GUQOH-1fLb-7WfyLTeyibgsH31PtYUdFJCgtgzwy9f_0p4us/s320/VE%20Promar.png" group-title="Venezuela", Promar TV
 http://vcp1.myplaytv.com/promar/promar/chunklist_w1487678880.m3u8
+
+
