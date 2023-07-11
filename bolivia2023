@@ -833,6 +833,30 @@ https://i.mjh.nz/PlutoTV/61923f794527a900078717b4-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f982c3420de4100070a545e/colorLogoPNG.png" group-title="Música" , Beat Club
 https://i.mjh.nz/PlutoTV/5f982c3420de4100070a545e-alt.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62b218fc511d4b00070ddc0c/colorLogoPNG.png" group-title="Música" , MTV MIAW Pluto TV
+https://i.mjh.nz/PlutoTV/62b218fc511d4b00070ddc0c-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/626180ec537f210007e94b52/colorLogoPNG.png" group-title="Música" , VH1+ Summer Vibes
+https://i.mjh.nz/PlutoTV/626180ec537f210007e94b52-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62e8cc10ca869f00078efca8/colorLogoPNG.png" group-title="Música" , VH1+ Music Legends
+https://i.mjh.nz/PlutoTV/62e8cc10ca869f00078efca8-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/636a4173e34fd50007534542/colorLogoPNG.png" group-title="Música" , VH1+ Rock!
+https://i.mjh.nz/PlutoTV/636a4173e34fd50007534542-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63724270c7c2360007b170e8/colorLogoPNG.png" group-title="Música" , VH1+ Canzoni Italiane
+https://i.mjh.nz/PlutoTV/63724270c7c2360007b170e8-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63eb5857a995710008971705/colorLogoPNG.png" group-title="Música" , VH1+ Euro Hits
+https://i.mjh.nz/PlutoTV/63eb5857a995710008971705-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63170371c37f8200076dd9ce/colorLogoPNG.png" group-title="Música" , STACCS
+https://i.mjh.nz/PlutoTV/63170371c37f8200076dd9ce-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/645376cad3fdde00080ff3c2/colorLogoPNG.png" group-title="Música" , MTV x Smukfest
+https://i.mjh.nz/PlutoTV/645376cad3fdde00080ff3c2-alt.m3u8
+
 
 
 
@@ -892,6 +916,9 @@ https://i.mjh.nz/PlutoTV/6475bfec536e0c0008858e9f-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60b4c06717da110007ee1af6/colorLogoPNG.png" group-title="Novelas" , Pluto TV Telenovelas
 https://i.mjh.nz/PlutoTV/60b4c06717da110007ee1af6-alt.m3u8
+
+#EXTINF:-1 tvg-chno="184" tvg-logo="https://images.pluto.tv/channels/639751f81a36b400072b8f5a/colorLogoPNG.png" group-title="Novelas" , Vive Kanal D Drama
+https://i.mjh.nz/PlutoTV/639751f81a36b400072b8f5a-alt.m3u8
 
 
 
