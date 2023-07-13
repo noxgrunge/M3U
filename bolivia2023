@@ -1,11 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/599375885ceaac3cabccbed7/colorLogoPNG.png" group-title="Animales" , Cats 24/7
-https://i.mjh.nz/PlutoTV/599375885ceaac3cabccbed7-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5b329e0a7b9d8872aeb49ceb/colorLogoPNG.png" group-title="Animales" , Dogs 24/7
-https://i.mjh.nz/PlutoTV/5b329e0a7b9d8872aeb49ceb-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61099f2b40d0640007fc5aa2/colorLogoPNG.png" group-title="Animales" , El Encantador de Perros
 https://i.mjh.nz/PlutoTV/61099f2b40d0640007fc5aa2-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/599375885ceaac3cabccbed7/colorLogoPNG.png" group-title="Animales" , Gatos 24/7
+https://i.mjh.nz/PlutoTV/599375885ceaac3cabccbed7-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5b329e0a7b9d8872aeb49ceb/colorLogoPNG.png" group-title="Animales" , Perros 24/7
+https://i.mjh.nz/PlutoTV/5b329e0a7b9d8872aeb49ceb-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/colorLogoPNG.png" group-title="Animales" , Pluto TV Animales
 https://i.mjh.nz/PlutoTV/5dd834c66fe2ca0009303b8d-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/600ae6a78d801e0007117d21/colorLogoPNG.png" group-title="Animales" , Pluto TV Animales España
@@ -492,6 +492,8 @@ https://i.mjh.nz/PlutoTV/5dd6ab8056beb000091fc6b6-alt.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLFujdtY12i8uFeqvuyu_DZFqp3Oy64t8Y_vvLnbeHHc0Mk7wD_k3USXn0lekYxStEHZSuyZYYPFFx61fe8nLE2Sj7FuVO6nffLSlwQa_chVugBVayBV_P_1jFjiHyS-8igUQVuxRuyh6KUJ7H38o7_1i6KxcBAtxQ0KQ2fOQX6GmRANT7xo3Noyuie9IH/s320/Esport%20MAX.png" group-title="Games" , Esport MAX Venezuela
+http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fb554d87a0c480007c8dada/colorLogoPNG.png" group-title="Games" , ESR 24/7
 https://i.mjh.nz/PlutoTV/5fb554d87a0c480007c8dada-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1ac118dd7e6000077e31af/colorLogoPNG.png" group-title="Games" , IGN
@@ -535,3 +537,121 @@ https://i.mjh.nz/PlutoTV/5f4d882d5233170007ee880e-alt.m3u8
 https://i.mjh.nz/PlutoTV/5dcde27ffae9520009c0c75a-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ea71d48af1d0b0007d837f4/colorLogoPNG.png" group-title="Investigación" , The New Detectives
 https://i.mjh.nz/PlutoTV/5ea71d48af1d0b0007d837f4-alt.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e67e20c93312100076f3ffe/colorLogoPNG.png" group-title="Kids" , Babar
+https://i.mjh.nz/PlutoTV/5e67e20c93312100076f3ffe-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/619d5e6a093e7c0007489211/colorLogoPNG.png" group-title="Kids" , Baby Shark TV
+https://i.mjh.nz/PlutoTV/619d5e6a093e7c0007489211-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ebac49ce4dc8b00078b23bc/colorLogoPNG.png" group-title="Kids" , Babyfirst
+https://i.mjh.nz/PlutoTV/5ebac49ce4dc8b00078b23bc-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f29ada4bdaebd000708d49d/colorLogoPNG.png" group-title="Kids" , Barney
+https://i.mjh.nz/PlutoTV/5f29ada4bdaebd000708d49d-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60493283ffc52f000710edae/colorLogoPNG.png" group-title="Kids" , Bebecito Bum y sus amigos
+https://i.mjh.nz/PlutoTV/60493283ffc52f000710edae-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG.png" group-title="Kids" , Bob Esponja
+https://i.mjh.nz/PlutoTV/6254598f5083f800076d8563-alt.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioAYiOt-u4hMA_0dqIb6nhtUx1imIzXAcySWCbF75icW5CmQHAUdrK3cJjz22hpLCw98cXazBBDMEt2nbwXXV-j0KYCbseiLvYWRrsor-MEZvy0VOdynNoW5FtNC4ZfWrvAtk4HvrC3DLH_40JIj1YJIpSJMi4l9-LmXuCieQ0QylWm761Y8_1Gfd6rvFj/s320/Cartoon%20Network.png" group-title="Kids" , Cartoon Network
+https://list.iptvcat.com/my_list/s/e5746d5909a9360411d72ef01a2efe53.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilru0AKcv8wCsQaMZzqkkyw9UJeKso4y0EPfSImImuJnx3O8jcrh9IeUqy8sPvdbOpMLft_zq0Q7mYXNRUrEwGxwWJthcrnsVe05dMrgAQCvsi94SCF08jE97_UrWRnJ7w05W0AtXNGkoNi8ajI2lOjSR1ow3yue1BkbrVJkDQmy_vJPT5Nu_W01B8o9MX/s320/Cartoonito.png" group-title="Kids" , Cartoonito
+https://list.iptvcat.com/my_list/s/6703cadd9ff48a90b6f47da7b24e1f70.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d14fb6c84dd37df3b4290c5/colorLogoPNG.png" group-title="Kids" , Dora TV
+https://i.mjh.nz/PlutoTV/5d14fb6c84dd37df3b4290c5-alt.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiK80V3ZyO0eVTSPWS-O_3lMx4pYbQzFG2Za3_Pl1-NwShYeUBBmdSWlOOSADuWhldsF5CcvNnDFXnmQP62yjHI08lpMRhwmwM6FLwtOw7xJFAjB_u8XQ4iB380jYWEZS5gJbAvI66yCaO37zGkCu4CC7oCml4PLL7eD7GWDXOy53zZyrqtcvbrUtlIzXP1/s320/Dreiko%20TV%20Panama.png" group-title="Kids" , Dreiko TV Panama
+https://list.iptvcat.com/my_list/s/8ca05f82c1b7fc50137319154d7bbd87.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62568a94ed1f380007b0211f/colorLogoPNG.png" group-title="Kids" , El Club Winx España
+https://i.mjh.nz/PlutoTV/62568a94ed1f380007b0211f-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f4d3d06fb60d8000781fce8/colorLogoPNG.png" group-title="Kids" , El Reino Infantil
+https://i.mjh.nz/PlutoTV/5f4d3d06fb60d8000781fce8-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63c69c87808b740007599fe1/colorLogoPNG.png" group-title="Kids" , Érase una vez...
+https://i.mjh.nz/PlutoTV/63c69c87808b740007599fe1-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f9996533c9de3000759ccb5/colorLogoPNG.png" group-title="Kids" , Las Pistas de Blue
+https://i.mjh.nz/PlutoTV/5f9996533c9de3000759ccb5-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63dd5d7a4e83e700088fbca8/colorLogoPNG.png" group-title="Kids" , Las Tortugas Ninja
+https://i.mjh.nz/PlutoTV/63dd5d7a4e83e700088fbca8-alt.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdUKBuCsNKmQMHU-R8JFMwjG7GqIbUYcZTaQC6gaeTrzzhlZYyYtq6gmJreTZyVbu5iYQSdN0wFVIvShaG8mHM3QXmZMY-9tiWR8mWTg6A5Nt-lTlAsAdba0sghPqP05nfI3hDqDFeJ2G561iPChU5BzXLt73976C7ycJi7NIQJ3oHJNyixCisuoiFJZac/s320/Latino%20Kids.png" group-title="Kids" , LatinoKids
+https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6322099c822bbc00074857db/colorLogoPNG-1667576393608.png" group-title="Kids" , Los Padrinos Mágicos
+https://i.mjh.nz/PlutoTV/6322099c822bbc00074857db-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG.png" group-title="Kids" , Nick Clásico
+https://i.mjh.nz/PlutoTV/5ddd7c348520b40009c347e2-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d8d08395f39465da6fb3ec4/colorLogoPNG.png" group-title="Kids" , Nick en español
+https://i.mjh.nz/PlutoTV/5d8d08395f39465da6fb3ec4-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/colorLogoPNG.png" group-title="Kids" , Nick Jr. Club
+https://i.mjh.nz/PlutoTV/5ddd7cb2cbb9010009b4fe32-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d8d0ec7b0f7015fbe0a3bf7/colorLogoPNG-1631631965767.png" group-title="Kids" , Nick Jr. en español
+https://i.mjh.nz/PlutoTV/5d8d0ec7b0f7015fbe0a3bf7-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6202ab549654c800076ee13f/colorLogoPNG.png" group-title="Kids" , Nickelodeon Rocket Power
+https://i.mjh.nz/PlutoTV/6202ab549654c800076ee13f-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/colorLogoPNG.png" group-title="Kids" , Pluto TV Junior
+https://i.mjh.nz/PlutoTV/5dcde2ac4bc6c500094ab45b-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/colorLogoPNG.png" group-title="Kids" , Pluto TV Kids
+https://i.mjh.nz/PlutoTV/5dd6dae8ce788b0009eaf77b-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609e7e423e9173000706a681/colorLogoPNG.png" group-title="Kids" , Pluto TV Toons Clásico España
+https://i.mjh.nz/PlutoTV/609e7e423e9173000706a681-alt.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMamogKwOavRV6sB17cnEuEbS7pFaXpPhkRq17mh0kvF38_hITiYYx5fD97PAh66jDL1uvaCl7AfRQjLJ5i7adCuQdSDbfkDTIFMnXYMR_Bw0OAaRwCZOEu52g_NGF_sxtJ3_WijRVPqvxMyIvhMw1jU0gvxWTZ40h2434YP8YwDv9QDQ1QC-x2MAgwTER/s320/Retro%20Magico.png" group-title="Kids" , Retro Magico
+https://list.iptvcat.com/my_list/s/6b5a6fed29bfca76ed74435627f056c1.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/colorLogoPNG.png" group-title="Kids" , Rugrats
+https://i.mjh.nz/PlutoTV/5ea7215005d66d0007e8128a-alt.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidSIMX56mVarJB_1YZGm1wrz7xoBLp43FLxccLrH4eD7jrEt4N9HuFyKevIwjKRVTh1uxT-fRVEL99hHyDFq8ioqhMQ_TC7hwPfMa4EgdAxp_SIlNhVnvaY_SLBj1dojkhbmHdNeIrtNkm3Fk6VrYcSGvESkU83oxGCkIeIE4iExfyDi8igX0EPSuU_EuO/s320/BO%20Seo%20Kids.png" group-title="Kids" , SEO TV Kids Bolivia
+https://live.seo.tv.bo/live/2SEO.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOnzKINPrg6vC3AEp-TEu2c2_wmFgaXR44E7MlT4TP4y1bq3l4kKhAv6iszYUmsZGE8H-RLnOORApCQkJdRT9jCjXFuIG42AmWEgAiRUCF62S9Y1sx26bGLZmZwmSPdrYtkO8WlYBxdSgasWmpGTdNnsBfBHxa0Jvp81tFWL7Ry0Ut2KTzyBT6FywBMRM9/s320/Telemix.png" group-title="Kids" , Telemix!
+https://list.iptvcat.com/my_list/s/30429f56c469cc98f5f77ab28f399de1.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSpOsxkdlCqDhR7-PQElfxGYoK3KIRdaYMH471MTUEQYu-Q6IJZOIilGaJwsDM1nHOsA1xRoKE4S2z9DBuYfGb6I1oiSt_CnPC47_i8zecHgwKnhloIpIr3lWTQBeIZURRsp1S9TD7WICmxeKdgZ2vKYIrdTi7DLLu6Da4WwKAkrbAP-Uxt4u6ew97kGGF/s320/ADN%2040.png" group-title="México" , ADN 40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsBQKZsG8Tg4rlxQDB1EpTRmOuhT8PHQ17jeo_RmdUU9Ho26gyzbNvM5PGy2SmL2liCf0L0U_1LWRWlH8zNugCI2GVS23tCYJ_BloYWZRVVpjkh-5G9Q45jia1IhQEoMiPIpfceS1MjxxhdQRuYoeWwPRtaXKdMcdoRlBYP3EwnPoZUlqfzHHmC66clERb/s320/AMX.png" group-title="México" , AMX
+https://60417ddeaf0d9.streamlock.net:443/montemorelos/videomontemorelos/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEeXe5ig-taN9ldkMbFPL5twsTah5V-z-VEIMl-Kq9XN0uco9Jp_bhoz4f0IcpRV0QNgAb-5oq3seCXAXbmvulLaHFyGZ8Pd5RWxYoc_mVDsuhTlONz2N9EdglRBHrRjWqbTwxPnW2Qe8JonHkPuJ2Ixz2wRA_eeaYIWnqm0M7kWCys4RfWsEXKHYb1PDi/s320/B15.png" group-title="México" , B15
+https://list.iptvcat.com/my_list/s/1e72cbd6bba0d67f6e6737cdb5e34af5.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKh7cH-OtRtZXoCsGHoV4xENyJC2BEZs65TultxvmKgkW_X97g4txDN5MtKrkrwEvWn-4ruIFDc-tcdLeTPCTGhYPxFyt1KpnJwxtX-7l4PsgiiJ9NFxPQv2DjNLNSL_H4luNcsSmKLGJoZMt2fWWE0rQrz_vBPRSboYKeVnAI_Cx5IMuGqtPZSmgZ3_MG/s320/MEX%20Canal%206.png" group-title="México" , Canal 6
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgILh9VUBAub2VCaTw7BI7rCjhCff3dP3eRgy3TcGCtWaMrfMaeus0VQu-tKYTdrBK8T2dMyeAlM6RaY69_0cSIMSHAPc6KphFYwE1nBtFde8BkwIt1HHyGvUAJ01xxVhFCe_2nzMvzhwLXAmJEu4dt8mjaRqQOkcFZs0qXm7qIJ9fZgmt8GQqJud8lvRPH/s320/Canal%206%20Multimedios.png" group-title="México" , Canal 6 Multimedios
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMG8LWcxx8pMCcvaMb_qSNpSzehiXukUSI5lEDrJIIZuExTgKKpa4aetdIMvoTetkBftuBBoo_YvMHK1X3JzQ5NMo5qKodwBMA48PkA-NHrY3V0w4l4G-k-otYs9lvll3K83m-ma_f0sbXgYGRDWzacG_McYqYRuEZfPeH1RI4qyoMuZ2wP9NN4iBOYEDq/s320/MEX%20Canal%2010.png" group-title="México" , Canal 10 Cancun
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsFDoRcaDFO2j62fwZWvb0wZQAe2a9fgoz2AADd1p-H9lt3aUH1coWsJLAQZnjaryneA3VoR-5SwASfukNFau1yrSZNtnzlNIXcyfMwWDZH47YOpT71VhgZSeAgr-6U8dWmwLaavYqPlyJulxkrSKPsON1qjqvNMzz3nsfwV0mON7WaFUBp9qB3y6SdVHY/s320/Canal%2010%20Chiapas.png" group-title="México" , Canal 10 Chiapas
+https://5ca9af4645e15.streamlock.net:443/chiapas/videochiapas/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj4wnbwNtdmn0Cc0jbUPAHe75T2Uz9gVdvwMyUYKpr7PchCHHYQNXi2h6tIcuOQ-lC3WH1nc2q0sx32EOF5LB_0-av-zAIRSLlx5yuodf_OUPlvRw6-hUhzI8-ukKSivo88mKBVilgLiCTKMk4svMwc8UXMJUauIwq_GvhVLGarBA-QWx8Mknx1oSot4jj/s320/Canal%2015.png" group-title="México" , Canal 15
+https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibroTapldHkyuPtEYjfRaNvX5Mgd9hzik0yDH5q7SGaSRdGMnRsnAmZERoxxFmckH1Ru8h70JTrmEYHzDrU8a_x8K_HpNar5EVKxYaTLkemTscekCg2F2ZYOkRc_8D3uQXN1nint1_oBtbT3Je1nPj1I9-iAXFZPXVspEbTwqK43V0kCvHcqKCe2el4hIQ/s320/Canal%2024%20Zacatecas.png" group-title="México" , Canal 24 Zacatecas
+https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsONh7x26plk05JW6MCcb8QpxhG_08arCOJ3oZYqjjblXsIeSyCco6hVZ7Q3EOhyEUDBh4l7Yd7o2b3ca-PdIDORLmZJMSdxfqcavcRDXRhoga2fNYeZDGZHwhqv7i91c2N67fLM_ATs6JmFd7tG0ll4VncPkrjjK5nqiptIvSXX4qY4IBk4Z1H3XBDS54/s320/Canal%2028%20Nuevo%20Le%C3%B3n.png" group-title="México" , Canal 28 Nuevo León
+https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgyVs9ebHjcrSo9cT035otXiTn6y97HcMoK2Ms_SiE4cme3CeZrBKA4JV7OV9rIqambIzhFiKIf4Poo72Z3liQVMBKj_lolgBAVQyWEuwzg-wpi2RyhFBL1uOZRhU2ugZ7mf5s8mNAcMrmG8d4jx3TNUSpFLuKNKF4miZGOFsS2XKCq5KEZvuTe2219oYY/s320/Estrella%20TV%20Games.png" group-title="México" , Estrella Games
+https://list.iptvcat.com/my_list/s/8ffa0a1fc921a0b647929a2ccd05bfe1.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5cf0622da00ca1e2f6fac712/colorLogoPNG.png" group-title="México" , Estrella TV
+https://i.mjh.nz/PlutoTV/5cf0622da00ca1e2f6fac712-alt.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUz3rt03g1IHcn7cVPVN8MiCFRRsAPMc8YHP6PrcONBqLAKVthM8L6dkhi4NlA-9Wo1iExYUemZH3c9sf8ruExoIzTpcW45_EuilGrTVvffWdJi1J9chHalVrn6Q6EqaV7x2QdcyC4oVRpZjBsSOQk6GAQYTmuni7nKyFAqZnekefBNx7sccKrYIxtpR6h/s320/Estrella%20TV%202.png" group-title="México" , Estrella TV 2
+https://list.iptvcat.com/my_list/s/adbbba9db87fc106672d7683cc68bcd8.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpeAr4V2SSaYS8xIY2WHw-JHIVFIRHuvEIvBAUfzk4JQxSmocHQA4dAKzVKJZqfQhi9eJuEvu5RytDZ7PCC0YhYLll1x9a_VPwXNe8EArOtlmtyH1y8HBPFTRH-NdWqoVoFzhTbVVEav0T3WqwSeBDAevtvmMle3vheWM1dhVWqybLGi5pe_12VxZrCDHv/s320/Horizonte%20Iberoamericano.png" group-title="México" , ILSE Horizonte Iberoamericano
+https://list.iptvcat.com/my_list/s/9bc87be26e29d84a23bf5c42ef110756.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsEME209EiDo1PrEQbvmjXn0qvFyROFRRyPKaR0WqHjVPaqBBqvDboHG3E9Sr6AI61GIiQasCZNIGcrfV710TzFGBjBPaNflanOaR6X_qb_dITcaIG9Us0l9x7pooKA88IF4dsEQqZ_CjtmMIvmVnW1612ftGcei5ZH7iucWGUZ2Le-kPRpj-BqPfbo_kl/s320/Impacto%20Vision.png" group-title="México" , Impactovision
+https://5ca9af4645e15.streamlock.net:443/impactovision/videoimpactovision/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3MxgHO2WbdUrknwjEB3oc9NAwlK_N-ZiG7jgpAnxl7qbKGY6zkduG9xhq8WH8_44k_h-O_CmCovWi0JF4Yk86YsHPBfXhWPkscaneWOZPo7O_rc6lMIon4OYdDgBAPf2mnIQbPmGKU_s8QniUHCwXjSg2mhcryAc2bt6QqskEG6ba30oAFp6QBxhPAfHD/s320/Jalisco%20TV.png" group-title="México" , Jalisco TV
+https://5fa5de1a545ae.streamlock.net:443/sisjalisciense/sisjalisciense/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihlJFOuhp2HSfS1GBU5IGuFi5qXBrUFpsm4gIchszvHPta_rraNmN0Yflk_SX-rtQ5yZvDEi81NxiXl6xYFWbeFBeKbhz5zH_vofcG2NF6u92J2732Lj5Nd6lse9dSRhpNWxKbX_wbpjkYlnSIzmYjZ11mCFnOo1besF_ZvpeSAiYhY0hi3D5ZAVEkEA8g/s320/Justicia%20TV.png" group-title="México" , Justicia TV
+https://list.iptvcat.com/my_list/s/9d427cffd360a5de68f9e7e1e0a4f485.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCMcp-Pwl72UzW1nlssKeM1OEYn7ka0wMdQoh4-5zJ0wBChoeI3wyZu9LEOBEifTXklS4-a_sgXW3j9QX_OYl6htMG8lB9cHE5FrURe0Hh_Z5nwaBSYAKkN8wa1ArGv3uthGW1WCnm-pZo8rkgUoVFzgRhAQz6TU1a55Nhr-BzGs61PFmXudPpjEcBnebW/s320/Las%20Estrellas.png" group-title="México" , Las Estrellas
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim-h0YeJpTyzoLQQ4lZJvdeBVOmS6pswjL8JKFO_VX1VMuaikVuDGreEF3wZTH3AqVRskzHnS22ZgeJKbcUrKLB7zgemOKx8FziVvvQlaZypDSnCaXIyoQIaczhipwjC3a0pOqE1byf83e2x8ViyoflNy90PNTZLullJSHtQ1lJOXf7eZMA5JQ41RknyGJ/s320/Mexiquense%20TV.png" group-title="México" , Mexiquense TV
+https://5ca3e84a76d30.streamlock.net:443/mexiquense/videomexiquense/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO56kpVSZcAGIhasS5c-2WjOwib0KOoEkUQPff857x3AOQ63Ve_3Ju06Ay-Hv3au156W9xIwpk4ctSjK63gaFFrswFZhZxJPzJSU-KxqxpYCMzgjrKuRiJR5cL5NNMR-xs1AuSS7iBC9Ngc1NS8WmVjWcGhtnL9dD2yHorSkD3Sj6kGLGlooxwMfqTWI9C/s320/Presumiendo%20Mexico%20TV.png" group-title="México" , Presumiendo Mexico TV
+https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhhAigd2RbPIEHDASs1wthd4lxMi4H-xIDjj8QbRXQpxQNORB7j3cxjqj7s8ajKC6XK3b-cTuUPlkLFMvKHxPUzBjt6KlBjKYr50j0phj8BscDRciCkQjoq7a_if4ZPkDq_34Qr-L5KAkuBt_FhatXUaOvZzLStyFFXv_5dAxaeRXSNs-tZhFnkDrvtqkt/s320/Morelos%20TV.png" group-title="México" , Morelos TV
+https://list.iptvcat.com/my_list/s/09b695987107d290724c3033d74d46cc.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdN0PTUzEyNC9QmD_X-STeEDz517_6PT5wSjPFfxd6elqD80cny3S5oCWXnllzCvbm7UfY-oxFwZhcA8T9Di-KdA3xRi0UZB8-0yLxOy1Pd-j2BiJDniN_DEKSXSesd3KAAYTGBluDGntH8oAg-aX5kM6Y-gtgoCoz02AGJIg7d88mk2mmuE35ilymb9VG/s320/RCG%20Saltillo.png" group-title="México" , RCG Saltillo
+https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPefyeFvtJMLuX2O7xGNgwYi9_SXR8rN7mCOMspufiljxPlI3i2kqkAeWr0z7PlGXbhqAPi3zN2WLBduudGQbQF_gjevqW2yLO-kwNb9JsTmTUj1vgdAyiJQ6jTQ0eSrCTVPEQkaONWPCiDGkkhEkAJlBXe2T1jF-N6zGuWM11iC-o-6_fZS7vj39MYhoD/s320/MEX%20RTQ.png" group-title="México" , RTQ
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguCgqvISxD974_Do5OEG78CRSCgSV3b7-aOjDHJiozVsfjA7jhFUi3hL1NQNHqlGpOLiec1WL6QuGqcOrIwukl8YT1qizTy7s3PvXgecp5lEHfl7ByrVsFWvbyY3fqeBeOJxDgmnQOxdfag3jRW9ocBZTANARl8xvyG-TyIcENoXi9y3iXKbhS6vN6Fe7B/s320/Telemax%20Hermosillo.png" group-title="México" , Telemax Hermosillo
+https://5ca9af4645e15.streamlock.net:443/zacatecas/videozacatecas/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO1CfUNC1CJK3lu6A7SZGkPdUGsFPhMhL6N1i7_fItyQjvMImaug-yGbwL1-zvXmk1HCIiAGQf3-9YPUHQMsgbEX7Ug8wqMwuI6R91O0-mPB8Hi6VQJS7YG4xeFckLY-UGQg3r-YTM_KI7egQXBO4lWk6FQC-87rmXmnDMvuGd0hDPoNy35aGIV2JCWR8_/s320/Tlaxcala%20TV.png" group-title="México" , Tlaxcala TV 
+https://60ed5b6d0df78.streamlock.net:1936/telemax/telemax/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHAkdr327Amos0Dld2oqwjzqgGE7NYuYaCrnMBGAQ_kcgTiUGlB-C5pzsuAnnmGx1hhF4YjITAjdKOM-yeP8kJsXsxRyKKTKVMVP1zNZl_21x4rJa6HRhRcgMAJDDenQsNWqm50lTZzsqnst7qPdxe8a-Ryz9Lv0UZfknoaOE8Tl1ANYLi4ZsjkAh5JmCS/s320/TV%20Lobo.png" group-title="México" , TV Lobo
+https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIPiNfSCXvOckEubeSU1k3lgspCuEIbDsBU21qubmimng8Bgx5lqHCWb_XwlVRdetjvhOvWvmG1A59TANJGoaGo67bSlxM_9pgYR2cT9aChW8hU8dqdD2QjdPfc19inC1YTTeVhyI-ohxLtAB9JN07ZeAgP9-8Dn1CnjBhi9pojo683UQsYhsonLJ54hWB/s320/TV%20Migrante.png" group-title="México" , TV Migrante
+https://list.iptvcat.com/my_list/s/be5c7abcff275104ed46dc2cb6c05931.m3u8
