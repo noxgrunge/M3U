@@ -1,5 +1,6 @@
 #EXTM3U
 
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f4d3696d938c900072679fd/colorLogoPNG.png" group-title="Misterio" , Historias de Ultratumba
 https://i.mjh.nz/PlutoTV/5f4d3696d938c900072679fd-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f230e416b68ff00075b0139/colorLogoPNG.png" group-title="Misterio" , Misterios Medicos
