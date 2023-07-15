@@ -147,7 +147,7 @@ https://d3eyooyk041snj.cloudfront.net/hls/live_480p30.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvw9CFO6nub7PnvPuw1XgP5PecJRSvBxho-JvEKbwME8VIwzjL18DgeMK1yByi2zCnu4utGMQIkPCc-cvbgoBu69AlaTeTtFf-0WFRD2v_zoTzjurnqvvBHwIDaoWB9xX8JA1itmUhtjL0UkqhBBHwYlYetmfZd1_TFRpkdULlfOrSYGG4KL3diGdM1b1E/s320/Cadena%20A.png" group-title="Bolivia", Cadena A La Paz HD (Not 27/4)
 https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/chunklist_w770861617.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGLbfcxO1H0tL6__l_4EoPRGtvFA3dcOxPI4mIfT4y6Gh27rc_Hdq4BrHl_9tFs58Z0U6W8USvmpu3rbYeS1PjLaKpGIV6x2JX9w9kDaIV6EhcmT6naDJ2A74DSQrxfIQQyhanNC8Y5KYPw_raO5eFdNqHLH5DYj73o777yFMOEyH1_j2v7BYNS0n8lVv4/s320/CEA%20Com.png" group-title="Bolivia", CEA COM Oruro HD
-https://cloud2.streaminglivehd.com:1936/ceacom/ceacom/chunklist_w1433952623.m3u8
+https://eu1.servers10.com:8081/ceacomtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhc-YduSN-UiZlsTy7q-jzHHiK1DNJ4zmJlL3dw3hMrSe1LtDsthrg5maTVElOI_F0k7ks1pg3VPC35UX40ueTQ9hQSY-GFdbbwz1KXmwmUL01Tyh0wF5iOdabntXgWIpM9SkTt0kH51-B99iZHv8fY55zw5i_ayNeLNyUQBJvFDTZJSJ5cawUrNtlczbbC/s320/BO%20DT%20PLAY.png" group-title="Bolivia", DT Play TV La Paz
 https://tv.portalexpress.es:3044/live/dtplaylive.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnJq0FVwVz7N8QJIug3M59hC13tIWQJN949UvqwWsKuTlhZlDtRez0LsA1lVeapbFRWfkn6k-KNKA5htoBnQFhKjnBPEX1GSxaNGksQk8kkU-xSUoZ-SbaItH1Mb9Tpa3prC6n_xNlP-dmB15_xJmLrujXR7kAxJibaAzSlJETk-XEnyZ3_DIn-5Z7aJ6o/s320/ERBOL.png" group-title="Bolivia", Erbol La Paz HD
@@ -163,13 +163,13 @@ https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/chunklist_w1175624870.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSkm-g14hcEFVetQ7w54Brv5FWRmW-77BstBOk50rwNN1QKnlllDw186Yx_d2oZv2I2iFGOekQsJNlB7alJh2Z_djlPctM_EMtYmMcAxfDjtA4Tei3xrbIqKMFNhGgg1ZxnI6_N4IPwjhL2xMq9PwSq0WGWlMHrQGXQH4LM8RlqSFxHxzGY9sdjVSISW2e/s320/MEGA%20TV%20YACUIBA.png" group-title="Bolivia", Mega TV Yacuiba HD
 https://vdo.grupolimalive.com:3688/live/albertlive.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiA5yNVS4s81JcnXbZNFAGRyQtisC1bII0IYWa45djJubjALk9YnxxROzlgLJNK_GrMxioYJkD6yIb5a2woKJsIrLsrEmf9LoH0CFa6YU6OFvKv_B3-xNrPZb2kaaLKFaob-lD0-m2wmB3vZrBxwW3Wvez_yv4SXVW6prtMusudcCSTeBRfA-9BpyyBdjk/s320/Pace%C3%B1isima%20TV.png" group-title="Bolivia", Paceñisima TV La Paz
-https://xhateaec.com:8800/hls/Pacenisima/Pacenisima/703ae3fe9cf0b9a99744bbeb70dbbceb/index.m3u8
+https://xhateaec.com:8800/hls/Pacenisima/Pacenisima/f01e239180691df6a5294e38c0f153b7/index.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6A1Os-dICowZ9wIpjdDHkg4ADuXEgy7EIhjQLezgELTxw5fa4CV-d56MLNCjCh8KOR1A8mdCBAVFIufZ9SSGGtEyQDuqFxjZ1coIiXR75CdV7KXr2CFH-Oxit1IkFPe3PGkBcl7ct3262tz8CkmlahZOCAkiPETbqdLJLRkRwJdXzmbDMCTTlarrPK-kR/s320/Red%20ADVenir.png" group-title="Bolivia", Red ADvenir Santa Cruz HD
 https://streamer1.streamhost.org/salive/GMIredadvenirh/chunklist_w497868593.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJesqJsb05YnppubVUk7-Cp1u76JFfsvkWO_ogmloBfCj3XbjNKZqmQGgdr0zSfxegSW0m6JTtGd7yYGmkNmFMlt0PauhZq1phkTuIt1ciJImoNHQjTX9A8RA5VEBxAuk_4wrhQVKrBJl8pVaWLmMUVeNwLd13jjianhCqTWJISuLvSLCJ9xFjzRg4ApKa/s320/RED%20Uno.png" group-title="Bolivia", Red Uno Santa Cruz HD
-https://stream-01.nyc.dailymotion.com/sec(D9J3chSPMBKwmID2SmGTMH-xgJRngM_XC6m6plAM2cPQue6SaeGwtvmhxjUV5aqO)/dm/3/x8doufc/d/live-3.m3u8#cell=lnyc
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkRPsYze2i9maLrCbb1AHPjMhMzRGbbj3on_phvDJQ-CfoDSe7mbogd6XuNW4yKl4Rj9IDASMSMmpDHXtPXpzftyY1Ve8j3e6_dsiXMfCfDqqYtdpemy9Nw-tOwZHEVznHRVRTAfWu1H1ICkqNZiTev_P1oskoA1RxZnvnT3tlYTQAjK9fzSaIOl4-_Ii8/s320/Red%20PAT.png" group-title="Bolivia", Red PAT Santa Cruz HD
-https://w8.redpat.tv:7777/play/120/10354824.m3u8
+https://w8.redpat.tv:7777/play/110/index.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJesqJsb05YnppubVUk7-Cp1u76JFfsvkWO_ogmloBfCj3XbjNKZqmQGgdr0zSfxegSW0m6JTtGd7yYGmkNmFMlt0PauhZq1phkTuIt1ciJImoNHQjTX9A8RA5VEBxAuk_4wrhQVKrBJl8pVaWLmMUVeNwLd13jjianhCqTWJISuLvSLCJ9xFjzRg4ApKa/s320/RED%20Uno.png" group-title="Bolivia", Red Uno Santa Cruz HD
+https://stream-04.nyc.dailymotion.com/sec(D9J3chSPMBKwmID2SmGTMEHLWUMAcm56_riGjz5_B0DhQg9N8GTB5rdVDvSvtxeP)/dm/3/x8doufc/d/live-3.m3u8#cell=lnyc
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNJf4Tp3WDWhRcBj_pU4d20lTgjULmHTXn4Y3Y2xB_Rn2EywC2qJvXvpilbKJyBAW_sThBOexC-COZPYH-_0KRInNwuNVbu-716xgsJaOHkE0UmfTPiWvMfWXh5vBVQ08QRVyuGf9rWS4UweIKpUrzab3JGWFaEp32c6TMZNftNW-4PJdJOmNwdG71EJOe/s320/RTP.png" group-title="Bolivia", RTP La Paz HD
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w722858052.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOLH92_t6MZlWA2Y-grz5OcwhOwX1x0Ec-9PPVYyECbZDkk9AapSsZDgXaErXpJvRmITbJfamn6wGHJy7g9mtvuZvNGunQoUljlbHVDzE5GbxKLX6ujBWpkw5fZ3CGO-WjkpYvb6Q7vDuZGYszQPzSWwSQKQwdL4x5YzjTEMUxmyu6Ic1R_8MJ21pG1Xfi/s576/SEO%20TV.png" group-title="Bolivia", SEO TV 1 La Paz HD
@@ -193,7 +193,7 @@ https://cloud3.streaminglivehd.com:1936/8068/8068/chunklist_w1241532496.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_NwjYiWwa6rl4uw7WvIGdp5ddxv_BufjPWA3GF_2I3Wag1EL2PQssWqcCE4Z43ZMUIcjE3LmO8pbtE-TwZ9qPU7otez0yovq8_FL9QxmhZWew11VFW7sjylzMD7FL5y-weACBnNixromU4nVxW7vs87kOqnF422e3MSNLFZZI7pV0UCU1TQO-oELs_RrA/s320/TVU.png" group-title="Bolivia", TVU La Paz HD
 https://video.live.com.bo:3731/live/tvuumsalive.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5Zx7pI_BRgHNSUs8eboVsrlJgdt9QM9pDUgb3IpAa25kaVrZehn1559JEUN3SaGCXbS3AztDKVZpUDnzDqAqShBgRHddwDT1dVj7gdY7f7Kx13D3pjyBjWNADsd1VjKTWqY_5P1vAUudZ8Y7mHHdMmJ70oG2kn-xsi2-SsQqujvgJPcp9OzHagnQnq1lj/s320/Unitel.png" group-title="Bolivia", Unitel Santa Cruz HD
-https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZW9xcLU_g-NzNIlkbq89xzuA2NQi-lszqdbJdstyR9gk)/dm/3/x7vsezg/d/live-3.m3u8#cell=lnyc
+https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl8njGguM5EOVJecYcSsrQFUBhC1LiTyKS2Rv1Z99gnBi)/dm/3/x7wzxiw/s/live-3.m3u8#cell=lnyc
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEholF1-DOMJaX4VaY1JdRwewZX3lxpRmE1xvCJ5V1eV8YYhsCvlV3BZZy97AZb7ojIwEtld7Y2AytzOaB9SbO2MBRMI05Dwth3JVTNsMReUnem8j6BS6bCjOIR1w8wk2mdNN_S09vBHSnb3Ma6oIawMw53KbIEe3Ix6Iqj_WTvZqCWlgXdge73ZWmd30K3f/s320/Univalle%20TV.png" group-title="Bolivia", Univalle TV Cochabamba HD
 https://master.tucableip.com/univalletv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinmMOq0QoGYJ3gJSJxi_zvoKeAnltqtp41aQshU0Bk5uOPTGm1x-EjjASbvX7x2rQtMVlXmNjSfhFyfLcLhiwhXiIcSsjvooz6IZzoYkdiu9JU0VkatTXmVVxAOm9X_ilsB1RytjnduVGP1O9jlf7UE5gjNLFxS8zNmaI_8YP2A54HCsKyhgmcwF56ERVj/s320/Universal.png" group-title="Bolivia", Universal TV Santa Cruz
@@ -552,8 +552,6 @@ https://i.mjh.nz/PlutoTV/5f29ada4bdaebd000708d49d-alt.m3u8
 https://i.mjh.nz/PlutoTV/60493283ffc52f000710edae-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG.png" group-title="Kids" , Bob Esponja
 https://i.mjh.nz/PlutoTV/6254598f5083f800076d8563-alt.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioAYiOt-u4hMA_0dqIb6nhtUx1imIzXAcySWCbF75icW5CmQHAUdrK3cJjz22hpLCw98cXazBBDMEt2nbwXXV-j0KYCbseiLvYWRrsor-MEZvy0VOdynNoW5FtNC4ZfWrvAtk4HvrC3DLH_40JIj1YJIpSJMi4l9-LmXuCieQ0QylWm761Y8_1Gfd6rvFj/s320/Cartoon%20Network.png" group-title="Kids" , Cartoon Network
-https://list.iptvcat.com/my_list/s/e5746d5909a9360411d72ef01a2efe53.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilru0AKcv8wCsQaMZzqkkyw9UJeKso4y0EPfSImImuJnx3O8jcrh9IeUqy8sPvdbOpMLft_zq0Q7mYXNRUrEwGxwWJthcrnsVe05dMrgAQCvsi94SCF08jE97_UrWRnJ7w05W0AtXNGkoNi8ajI2lOjSR1ow3yue1BkbrVJkDQmy_vJPT5Nu_W01B8o9MX/s320/Cartoonito.png" group-title="Kids" , Cartoonito
 https://list.iptvcat.com/my_list/s/6703cadd9ff48a90b6f47da7b24e1f70.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d14fb6c84dd37df3b4290c5/colorLogoPNG.png" group-title="Kids" , Dora TV
@@ -603,8 +601,6 @@ https://list.iptvcat.com/my_list/s/30429f56c469cc98f5f77ab28f399de1.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSpOsxkdlCqDhR7-PQElfxGYoK3KIRdaYMH471MTUEQYu-Q6IJZOIilGaJwsDM1nHOsA1xRoKE4S2z9DBuYfGb6I1oiSt_CnPC47_i8zecHgwKnhloIpIr3lWTQBeIZURRsp1S9TD7WICmxeKdgZ2vKYIrdTi7DLLu6Da4WwKAkrbAP-Uxt4u6ew97kGGF/s320/ADN%2040.png" group-title="México" , ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsBQKZsG8Tg4rlxQDB1EpTRmOuhT8PHQ17jeo_RmdUU9Ho26gyzbNvM5PGy2SmL2liCf0L0U_1LWRWlH8zNugCI2GVS23tCYJ_BloYWZRVVpjkh-5G9Q45jia1IhQEoMiPIpfceS1MjxxhdQRuYoeWwPRtaXKdMcdoRlBYP3EwnPoZUlqfzHHmC66clERb/s320/AMX.png" group-title="México" , AMX
-https://60417ddeaf0d9.streamlock.net:443/montemorelos/videomontemorelos/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEeXe5ig-taN9ldkMbFPL5twsTah5V-z-VEIMl-Kq9XN0uco9Jp_bhoz4f0IcpRV0QNgAb-5oq3seCXAXbmvulLaHFyGZ8Pd5RWxYoc_mVDsuhTlONz2N9EdglRBHrRjWqbTwxPnW2Qe8JonHkPuJ2Ixz2wRA_eeaYIWnqm0M7kWCys4RfWsEXKHYb1PDi/s320/B15.png" group-title="México" , B15
 https://list.iptvcat.com/my_list/s/1e72cbd6bba0d67f6e6737cdb5e34af5.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKh7cH-OtRtZXoCsGHoV4xENyJC2BEZs65TultxvmKgkW_X97g4txDN5MtKrkrwEvWn-4ruIFDc-tcdLeTPCTGhYPxFyt1KpnJwxtX-7l4PsgiiJ9NFxPQv2DjNLNSL_H4luNcsSmKLGJoZMt2fWWE0rQrz_vBPRSboYKeVnAI_Cx5IMuGqtPZSmgZ3_MG/s320/MEX%20Canal%206.png" group-title="México" , Canal 6
