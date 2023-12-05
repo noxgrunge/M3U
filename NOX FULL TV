@@ -25,8 +25,6 @@ https://i.mjh.nz/PlutoTV/629a066860ef810008267b70-alt.m3u8
 https://i.mjh.nz/PlutoTV/632c6df43d2bc5000751f621-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png" group-title="Anime" , Naruto
 https://i.mjh.nz/PlutoTV/5ee92e72fb286e0007285fec-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60493045fbb5e50007b36f4d/colorLogoPNG.png" group-title="Anime" , Naruto en español
-https://i.mjh.nz/PlutoTV/60493045fbb5e50007b36f4d-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ff4b9ccf938f8000779eb99/colorLogoPNG-1663941540755.png" group-title="Anime" , One Piece
 https://i.mjh.nz/PlutoTV/5ff4b9ccf938f8000779eb99-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png" group-title="Anime" , Pluto TV Anime
@@ -39,8 +37,6 @@ https://i.mjh.nz/PlutoTV/636e83511fa9600007e5ae19-alt.m3u8
 https://i.mjh.nz/PlutoTV/5ff608e60e2996000768c366-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fceaab478f2af00080ff51f/colorLogoPNG.png" group-title="Anime" , Yu-Gi-Oh
 https://i.mjh.nz/PlutoTV/5fceaab478f2af00080ff51f-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/604930bc28b24d0007e0e171/colorLogoPNG.png" group-title="Anime" , Yu-Gi-Oh! en español
-https://i.mjh.nz/PlutoTV/604930bc28b24d0007e0e171-alt.m3u8
 
 
 
@@ -50,32 +46,14 @@ https://list.iptvcat.com/my_list/s/05141faca6baccaaee8c99c3a377a83e.m3u8
 https://list.iptvcat.com/my_list/s/592ed54eecccfa4f92b273073ffb87fc.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGkKTKGzk0SFVxk26FPaWRKlOUCW0gTlASqYrxwE6kieDzP360lIbGeMBQuQ05fQJLmMJpjegqylOriqRjOiiYDgh1FmGdhoOGmqFwwddd_Di9A9ofDlwddbAHNBTvbuacWmwnRtFzMf0S9KAONF7dFN16-HVRJjE5hdw52okSFrvhd-PykG5o6jYwES7U/s320/Aire%20de%20Santa%20Fe.png" group-title="Argentina", Aire de Santa Fe
 https://list.iptvcat.com/my_list/s/be97793e46806f19b189ddac31abad8e.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEja00m3OPwPQa3s-JUnyhk80o0MzQ93SY2xUKx7qI2NuQyOezilfzY2ps6kutai_psE3oILoOo4XsFPY37QmLSkesAOwrAAm_clVg-lEmkI8eHzawwi9XLZkqVL_RGiQwFvWCuh2i6IiurytgbKpje-Lu99Zg9ftmTi5acmYnD34I7Aom671jBqHpYvMjCl/s320/AR%20BVC.png" group-title="Argentina", BVC
-https://list.iptvcat.com/my_list/s/4b39fcb68b8cc5b3ed7ea913b03e416f.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizzAK6M894YvrVsUMeS-9_Q4FdDYsrzURAMpMuBonaYQcb-SMO7quM_pI5BqcsMaTzYE7WY1-emzqFNhoxlTH_3nWHjEqZP-HTyr3A64VpKMxWy2vTbgYA8xvVCwaxwBKE7IB08bhdqxHmkU-LOtX6L9lm55romgFEx7nHl-nq7eCpYXTPLJ4iPHBnQFAh/s320/AR%20Canal%204%20Esquel.png" group-title="Argentina", Canal 4 Esquel
-http://streaming.arcast.com.ar:1935/canal4esquel/canal4esquel/chunklist_w1345773721.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEip_yYYgXeTlJ5qu279s4dt6bKGohHXi3paLE1vFW_UION1WiMCrsG8qU5pBKQNZn35cWxZ_Fp-KhO53f4cH7UzSgv7lZSGor__XS3sTQ9shG-YOAf6gH5za8tCOAhiCTEdxjUhdIkrxQ8_TsZCJ21S0ytnrGfkYXAWtd1PNY8-lO3Q9QM9LDPyqU388isL/s320/AR%20Canal%204%20Teleaire.png" group-title="Argentina", Canal 4 Teleaire
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0079
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg37Gp1_dDE_OcDbkk88oIA8u6e0sfr3gZ4_zurBoqlCqrNRp8dNfD5Ff4aonQonIzCXToLe_tC2QSWfcQu-CS9d59Tt9q5ktYtuRR-ITTgyyGZy0iGQ2Z1uBNiCpM9Dy2Pa4J3-Vuk98K2dSYqcb14NOXPOHBryU8iUTr5zJUNBnk30YG5NzCG7K4V2DDB/s320/Canal%206%20Digital.png" group-title="Argentina", Canal 6 Digital
-https://list.iptvcat.com/my_list/s/0551369d660ea312fad6c95152349367.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2LejmutczXw6t9GmB-leZ0o9rrkgyI4b-6XQ9XHqrPdb9xngwaEOdUSR3MDDmvNhokdCuC1OZVeE9M0C_GisWOBImj2w5Mp7GUk3khchhhb6X2PkZHuaY18sxF6VEIfk_paRORCxWFuiP6flwIYo8NqI14_XkCAEhLqj3J4ukItyOJljSdvVc6Aeh6Hwp/s320/Canal%206%20Entre%20Rios.png" group-title="Argentina", Canal 6 Entre Rios TV
-https://list.iptvcat.com/my_list/s/db41837b20c5449414bc14d19116a89d.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKCKbaoaBRfVbHD85r3B9JBMWFFMnCGks3Fxq2FPYmCadHrbm-7oGBrtWWG54RJssM0QvF56Hd3iIaLRBwoS4sl9lsTgEKl8zinNikfSxhHFqJ_I4mlELgE80gmoY-CA2bpHVLnvQtRNXHRbe5KY1WVPz2hDVbW_JKWeUWwwMxzD8_0lBbtdhh1yAEjZJx/s320/Canal%207%20Jujuy.png" group-title="Argentina", Canal 7 Jujuy
 https://list.iptvcat.com/my_list/s/a3e0045ff57ec420355abb41d330b2fa.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSauL1BdWPh0i0QqIldLjDjUf9sx5Qb4E-OfVClkQ8wE10rAF0bE4NIi3nUnmay8YAsFVo2nE17fLtYdAweNFNgTeNe3LDmerPu5POQCG0BhX-JqqUbMRUU922t5WNcvkcszZoOhJaDjm4IdNTo0mOonY8De4oe_nRL5H-Mq7rYH3LQ3LHhWgPKWtT0sV5/s320/Canal%209%20Litoral.png" group-title="Argentina", Canal 9 Litoral
 https://list.iptvcat.com/my_list/s/bbb2c10aeec8e212444de6f9c51c6e14.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJEF-0lrBeO3T5Trx1sqTh80djB_fMblzFDAqWbhTeJN6DgnZuerkSVJCW3YXzhSrygddtSSmV1CD6nySBKX6hKFgYhdzQlAXkOc-gp1AlajlW9Wkhz1ybHOT9QaKNE2G9BLa3ZQhTlMhbgXg52XMSmVSDK6_kBtj4WXhxfEbe_cU8DeJdK1m15wb_pJrG/s320/Canal%2012%20Metro%20TV.png" group-title="Argentina", Canal 12 Metro TV
-https://list.iptvcat.com/my_list/s/0082d92e8a6b6242b66235953f283980.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvcXSQTPNFc2hZ-KJck2-b9LuA1WsjBBbYD2lBpGJE6sDWfU6GOKA3l8S6GIM8BXsLw4L2JbNeIw68nmdPGwV30mh5g72juQEkoodxDWYQ-iCUtLUVlXW6A9pDxYMRxXIx9HBt2hYQqPjO8Pv-BxPB51UA5xpdTiajgtKSAJ06DKz1U7Q9Aa3DwG2XJZhv/s320/AR%20Canal%2021.png" group-title="Argentina", Canal 21 TV
-https://list.iptvcat.com/my_list/s/147c139211bba69d399147d77097a324.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIzAIxMeUv2sBHkO64tPf0hW5FyHQEeI-s-_nECrJE5kLhoW6MMpCE-ysS8jDUwRDujtmhpdtic8JzJekbstEQb3KVlFFjP9WQ0y5zIVxL-2q9s9wEvO-yMdRBbY-rbitFY1r19krIwfoTJGyCQzkthuat6CQiYJrHtEyD83-zwEAGCjF5MD0dc8ktrN4N/s320/AR%20Canal%2022.png" group-title="Argentina", canal 22
 https://list.iptvcat.com/my_list/s/1353eac0a901420dddaa95c67c758b07.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgB19Rw1xJdQCtiLjXWQsnHLqvQ_Enm3HYdCtjc9zLLzV5j1ah6poXESypjJN8DkZK6bAbv1WIPJJn5Oeadyo015fQdoOKifE9SOSVS_8CqkK2kcSK2YUPmmiZwHZpEqe2BWrlYrF3xilucZ7au2zdZImFSjq62x7Z_jRF9nxfL6ZB2OetzDtD_FgV9fLHR/s320/AR%20Canal%2026.png" group-title="Argentina", Canal 26
-http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbVF-vOxcD4NBQPCCJ4b3DwparZ3Fhl0XZELiAKktWAsGWqerlt51PPPWTI_M8kpYLageUmdtwp71h68tbBXlPqyWlxbdhKnbbPwJqbIbYH4kZuxKXwZRvCFvrUI4n0fuRldPIUQJkiba7gysuxT8cYCx3Swjf19UlRKX-LNjwyrfkS68i7UjOLLjBrQZq/s320/Canal%2079.png" group-title="Argentina", Canal 79 Mar del Plata
 https://list.iptvcat.com/my_list/s/56c070fc2b3a02b8f509407069259fcd.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-JkMqU31qrSAE7UXLbiYDBhLKEAnyD5qhPOwgTukz0TOOdEVzeu5fQ67CJUK0Xp6zQsooZsGkI-FNvAho4jy7FeYtlAb8NRcberhfQUwQb5-5W45mmere3fBnY028BD_hSMLzSyVP731R-g0OrpgqaxRp6q7FpGPDqdROaENOLq07ZEvo5iwXrP3olMyG/s320/Canal%20907%20FM.png" group-title="Argentina", Canal 907 FM
-https://list.iptvcat.com/my_list/s/43b84825f7333546834758cef9bbc3ca.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBMaIIoPwjzNTd91CJQ-fGp_FlapGN2CfUqqsCyI5cZKsxPmhGjgo-3poKgujTBFqs64l7pKZ7zmBh0kIE5bcio6g1IgTXHnEIgdRASY9nR0FtC65bIjlnMWN1Zleb_ugCckzfQ5_Bo54fSjdIPEYZ7gOAVMOi_JrMlKln681kJFHXhm0TCmgjgGDvUZsP/s320/Ciudad%20TV.png" group-title="Argentina", Ciudad TV Chaco
 https://list.iptvcat.com/my_list/s/194e2f77c0bc98c2a9303a817e866bd2.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWAcNoTqp-DPfTNF6kHYJNzbUPaBlSUCswtWEHX-AjoPJC32wVXO0dwjH1ZP4NMJo83zcAqSLRt7ePIXOPMc_yMIN1qc6MuUjz0-ZGLU08zcFR4CZjVRqgNwiDpI1jvMeY9pf26uNX7zVFXROQjk-PPHWN9nC1yc-erY_IZmYjH2TCmgJq4Nv9LDVrXCyB/s320/Cosmos.png" group-title="Argentina", Cosmos TV
@@ -96,20 +74,14 @@ https://list.iptvcat.com/my_list/s/3e1b6a9ad57bbc0cd5ab4bc8ce246098.m3u8
 https://list.iptvcat.com/my_list/s/8f97b68d07cb3295be7d2aea9e23e552.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60492d5522166000071a73c8/colorLogoPNG.png" group-title="Argentina", Telefe noticias
 https://i.mjh.nz/PlutoTV/60492d5522166000071a73c8-alt.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhLhaKOoCxQHjKR47TUuj_DsJkT7zCRxeTG21w5NXexfNe_NtQuCapGIscqn2B-rfvK54zYxLhGSalcJnKUWQv5hwUeVwao28lN2sJwmntUTshycAnzR41_ua5aFAufZ5tPUzpT9bZFt2jDUx66Fsp51JyIvXDUAQjBA5BDn5qb-XzO7j--BRk8guHM08j/s320/AR%20Telemax.png" group-title="Argentina", Telemax
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLcjI1XcoDA0ES-qP-wsSkZo_-0sK-KntzR26l5B6SmReyDFOogtZ_yVvRFwYGwx1eKIEt2XwG0rVC9RX2BK9SIQC7rZ3ZZLzoRKeuRrXURW1IHAHYensSng5VuKcBni7ol6RSDmtLN74E3Nk7NkpbeRVBdUrBDmEGf3rNsKhTQl1Ea2YJKYhPrbLiTL0b/s320/Tevex.png" group-title="Argentina", Tevex
 https://v4.tustreaming.cl/tevexinter/index.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7iXPtPw6h5eUDgkufmqWUlr6sjjB1ZtDFysH1ETVFCd8jc-9LgQWFyco0NPeUFfD4si2AE77EdVMCi83PcdZBoy1j4Bf8zOW6fOU5bZAht191cyc5x_R3EUULvKaq04iUmhvjK7zkpQcHfVeHy5LGp5qj9AjTXp08IiPEmSeQts3JTfT1iXgPZ7A_SZ_r/s320/AR%20TV2.png" group-title="Argentina", TV Dos Salta
-https://list.iptvcat.com/my_list/s/60d4ed6ab1590c8c8a7a41ea1878fc51.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHKyV4dmaVORQqlXIXxXoddJ2Z6g8DdOEvUbScztb_24j1hhqoAS3OUzdrp5tybgydm3fclMMg-BEJw1q8YEnX6CCZVTDEefS3cAqtQ4BoXiYFy0kj6BYwTxrRuPJR0uUO9koFb2f0ePXlqflVJN1Lml_c2LDFkyTU1gsjd1hTJCA0LkGxMQ_JQO6zhYBl/s320/UNAM%20Transmedia.png" group-title="Argentina", UNaM Transmedia
 https://list.iptvcat.com/my_list/s/5e15f6c8f3b2956c68e728cc9c2e6570.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE8VLfWV2jHA-STBMZ0nCHYkKWzP4fMVCpC4E4YgLTb9WLUI_0XwBDO18cGS_RZZa28QlELgTaz7t00oikx3e2Kv95DUVH8hkgB4iCYOFmu7CFV6_iQE3PmDCGgiR24FTXDzA3zoLLV-A-k4UhZOyaznmzkJHFlGfW9jeRA_CPCUHPAs7pwLYJR32C6ccu/s320/uniteve.png" group-title="Argentina", UNI Teve
 https://list.iptvcat.com/my_list/s/6efa339bae5c2bf1db751baccf1fd321.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgC60Npm8ONgajScVKVDY1-WVPhCWwfkF7CcnwXBmYUS-EeKdaqOaomarqp6LJoP5xqauP2iKiWEeXEru2EIFgHrJHUu97X0_hqrCEZLpzfhoQxFa01f9VJIfYe6spaQA_6d4Fx6GD0R_wO9e7hrkw_pe3wFKbDBgYIc84arm6aOn8g7zwTjlbX3VIssgjH/s320/Urbana%20Tev%C3%A9.png" group-title="Argentina", Urbana Tevé
 https://list.iptvcat.com/my_list/s/806c975c92c7c7b1defa17cef49150ca.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgA_X2JcIyTYU0bn1KJbVMWoUFqa2N1wwIS4DBC-9wtc_vHno2aWhxUjv8tuVr_r9LGUm7_Uet_HxJbQVc3l4uFPyH-kfN7BsweQdPHSIAfkePFPrgdDFseM_RrGna-Cq8XN1_rdFhlQEDx2fojjIkeutnxFaSCqLpWhM3AdZeuVkcypJHUDe9e-ACfXkUK/s320/XFN.png" group-title="Argentina", XFN
-https://list.iptvcat.com/my_list/s/00f3bdf9abd18dd3798fd2976e5d0f15.m3u8
 
 
 
@@ -142,12 +114,10 @@ https://stream.atb.com.bo/live/daniel/index.m3u8
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJo2xtpYBnAU9s_zmgDfGlgWGIzaVH8zb4wHaBZ8TepwsPnOO1dqtO3k2FDxody0X-sE0L461jgboNdTF6y9KIyYPPDqYrE1nEc_Q2VNxK-FWe7xEARhm18lpFGzf1RMoc4Iz5Zak28l4amXsChpjogWnRZHOCn2LfAKx72nHWf7C6R2j2tWkU5VKIBI0H/s320/Bolivia%20TV%202.png" group-title="Bolivia", Bolivia TV 7.2 HD
 https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMlzFRhh142P-dzwMChY9T0XQXIoQxpm28Mq0WxL2bzs1SjgoOzQigH-u8u5VKcH6EtMHfWbW3G-RaWVD2ofqlN-LV0XprmbYr2Xxwd63WaOB0F5s3Tmm3KqITlyMbRBAQZw9S_r5IGS8wyBRpsHVWEe81_rZ2t0zwARYN_pRqV-hkHw3RQEvZU9EYHe2I/s576/Bolivision.png" group-title="Bolivia", Bolivision La Paz HD
-https://d3eyooyk041snj.cloudfront.net/hls/live_480p30.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvw9CFO6nub7PnvPuw1XgP5PecJRSvBxho-JvEKbwME8VIwzjL18DgeMK1yByi2zCnu4utGMQIkPCc-cvbgoBu69AlaTeTtFf-0WFRD2v_zoTzjurnqvvBHwIDaoWB9xX8JA1itmUhtjL0UkqhBBHwYlYetmfZd1_TFRpkdULlfOrSYGG4KL3diGdM1b1E/s320/Cadena%20A.png" group-title="Bolivia", Cadena A La Paz HD (Not 27/4)
 https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/chunklist_w770861617.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGLbfcxO1H0tL6__l_4EoPRGtvFA3dcOxPI4mIfT4y6Gh27rc_Hdq4BrHl_9tFs58Z0U6W8USvmpu3rbYeS1PjLaKpGIV6x2JX9w9kDaIV6EhcmT6naDJ2A74DSQrxfIQQyhanNC8Y5KYPw_raO5eFdNqHLH5DYj73o777yFMOEyH1_j2v7BYNS0n8lVv4/s320/CEA%20Com.png" group-title="Bolivia", CEA COM Oruro HD
-https://cloud2.streaminglivehd.com:1936/ceacom/ceacom/chunklist_w1433952623.m3u8
+https://eu1.servers10.com:8081/ceacomtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhc-YduSN-UiZlsTy7q-jzHHiK1DNJ4zmJlL3dw3hMrSe1LtDsthrg5maTVElOI_F0k7ks1pg3VPC35UX40ueTQ9hQSY-GFdbbwz1KXmwmUL01Tyh0wF5iOdabntXgWIpM9SkTt0kH51-B99iZHv8fY55zw5i_ayNeLNyUQBJvFDTZJSJ5cawUrNtlczbbC/s320/BO%20DT%20PLAY.png" group-title="Bolivia", DT Play TV La Paz
 https://tv.portalexpress.es:3044/live/dtplaylive.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnJq0FVwVz7N8QJIug3M59hC13tIWQJN949UvqwWsKuTlhZlDtRez0LsA1lVeapbFRWfkn6k-KNKA5htoBnQFhKjnBPEX1GSxaNGksQk8kkU-xSUoZ-SbaItH1Mb9Tpa3prC6n_xNlP-dmB15_xJmLrujXR7kAxJibaAzSlJETk-XEnyZ3_DIn-5Z7aJ6o/s320/ERBOL.png" group-title="Bolivia", Erbol La Paz HD
@@ -159,27 +129,33 @@ https://master.tucableip.com//ftv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHF6XJvRPqxMhgqudAfcy8GxbFcrDGbJKLeJQCliHIawRRxe5MxRuDQE_SPtM6arh2icvyvGa5W8Rg-K732GIgR3x2_5JPStdfA0hvoQBXRzI3ZMqGbWFg_cCxqwS55X7pTYclzDuDXKpGOUTaCQuWFq_2MEw_3-gTIhpBRsbSukvVDEvGrJ3l7yu5yC6U/s320/MarVision.png" group-title="Bolivia", Marvision Potosi HD (Not 27/4)
 https://vdo.grupolimalive.com:3631/live/marvisionlive.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTbf8ycnXvPwhIGzSZKi0TB3pnt3--ekD3g53Seb5_Q9czVXWQQg3j-sm0V3cROC32fJd_IOI0UKrmmasighDd6nc6UuQ8fMhhOxoa-lmMBsHnA_m6FNiqGoxmXReqgpHqhQyQU3XpUW_UWWJ3fEv9fCEHgUiQM3_T_a5PwDUAgDhiIkmRXJ8_EEv5sBOj/s320/Mega%20TV%20Punata.png" group-title="Bolivia", Mega TV Punata HD
-https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/chunklist_w1175624870.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSkm-g14hcEFVetQ7w54Brv5FWRmW-77BstBOk50rwNN1QKnlllDw186Yx_d2oZv2I2iFGOekQsJNlB7alJh2Z_djlPctM_EMtYmMcAxfDjtA4Tei3xrbIqKMFNhGgg1ZxnI6_N4IPwjhL2xMq9PwSq0WGWlMHrQGXQH4LM8RlqSFxHxzGY9sdjVSISW2e/s320/MEGA%20TV%20YACUIBA.png" group-title="Bolivia", Mega TV Yacuiba HD
-https://vdo.grupolimalive.com:3688/live/albertlive.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiA5yNVS4s81JcnXbZNFAGRyQtisC1bII0IYWa45djJubjALk9YnxxROzlgLJNK_GrMxioYJkD6yIb5a2woKJsIrLsrEmf9LoH0CFa6YU6OFvKv_B3-xNrPZb2kaaLKFaob-lD0-m2wmB3vZrBxwW3Wvez_yv4SXVW6prtMusudcCSTeBRfA-9BpyyBdjk/s320/Pace%C3%B1isima%20TV.png" group-title="Bolivia", Paceñisima TV La Paz
-https://xhateaec.com:8800/hls/Pacenisima/Pacenisima/703ae3fe9cf0b9a99744bbeb70dbbceb/index.m3u8
+https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/chunklist_w241766504.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6A1Os-dICowZ9wIpjdDHkg4ADuXEgy7EIhjQLezgELTxw5fa4CV-d56MLNCjCh8KOR1A8mdCBAVFIufZ9SSGGtEyQDuqFxjZ1coIiXR75CdV7KXr2CFH-Oxit1IkFPe3PGkBcl7ct3262tz8CkmlahZOCAkiPETbqdLJLRkRwJdXzmbDMCTTlarrPK-kR/s320/Red%20ADVenir.png" group-title="Bolivia", Red ADvenir Santa Cruz HD
 https://streamer1.streamhost.org/salive/GMIredadvenirh/chunklist_w497868593.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkRPsYze2i9maLrCbb1AHPjMhMzRGbbj3on_phvDJQ-CfoDSe7mbogd6XuNW4yKl4Rj9IDASMSMmpDHXtPXpzftyY1Ve8j3e6_dsiXMfCfDqqYtdpemy9Nw-tOwZHEVznHRVRTAfWu1H1ICkqNZiTev_P1oskoA1RxZnvnT3tlYTQAjK9fzSaIOl4-_Ii8/s320/Red%20PAT.png" group-title="Bolivia", Red PAT Santa Cruz HD
 https://w8.redpat.tv:7777/play/110/index.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJesqJsb05YnppubVUk7-Cp1u76JFfsvkWO_ogmloBfCj3XbjNKZqmQGgdr0zSfxegSW0m6JTtGd7yYGmkNmFMlt0PauhZq1phkTuIt1ciJImoNHQjTX9A8RA5VEBxAuk_4wrhQVKrBJl8pVaWLmMUVeNwLd13jjianhCqTWJISuLvSLCJ9xFjzRg4ApKa/s320/RED%20Uno.png" group-title="Bolivia", Red Uno Santa Cruz HD
-https://stream-02.nyc.dailymotion.com/sec(RAgBiwkvDxA3k2daAQfIDtgoi6c8tLm0-ow6-JrYQbnmtwp_g6_mwSt1kQw8BnFs)/dm/3/x8ko1ix/d/live-3.m3u8#cell=lnyc
+https://stream-04.nyc.dailymotion.com/sec(Ph6IkEIFWyq0CZ9Pa6C_MM9iYtqlWbtVeZv-57AZUSmRzam_IY0mXeeXfua-uBWT)/dm/3/x8o9b6o/d/live-3.m3u8#cell=lnyc
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNJf4Tp3WDWhRcBj_pU4d20lTgjULmHTXn4Y3Y2xB_Rn2EywC2qJvXvpilbKJyBAW_sThBOexC-COZPYH-_0KRInNwuNVbu-716xgsJaOHkE0UmfTPiWvMfWXh5vBVQ08QRVyuGf9rWS4UweIKpUrzab3JGWFaEp32c6TMZNftNW-4PJdJOmNwdG71EJOe/s320/RTP.png" group-title="Bolivia", RTP La Paz HD
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w722858052.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOLH92_t6MZlWA2Y-grz5OcwhOwX1x0Ec-9PPVYyECbZDkk9AapSsZDgXaErXpJvRmITbJfamn6wGHJy7g9mtvuZvNGunQoUljlbHVDzE5GbxKLX6ujBWpkw5fZ3CGO-WjkpYvb6Q7vDuZGYszQPzSWwSQKQwdL4x5YzjTEMUxmyu6Ic1R_8MJ21pG1Xfi/s576/SEO%20TV.png" group-title="Bolivia", SEO TV 1 La Paz HD
-https://live.seo.tv.bo/live/1SEO.m3u8
+https://live.seo.tv.bo/live/SEO_1.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidSIMX56mVarJB_1YZGm1wrz7xoBLp43FLxccLrH4eD7jrEt4N9HuFyKevIwjKRVTh1uxT-fRVEL99hHyDFq8ioqhMQ_TC7hwPfMa4EgdAxp_SIlNhVnvaY_SLBj1dojkhbmHdNeIrtNkm3Fk6VrYcSGvESkU83oxGCkIeIE4iExfyDi8igX0EPSuU_EuO/s320/BO%20Seo%20Kids.png" group-title="Bolivia", SEO TV 2 Kids La Paz HD
-https://live.seo.tv.bo/live/2SEO.m3u8
+https://live.seo.tv.bo/live/SEO_2.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3mY_E2MzL1KBYKRtkiuT_KFz4dHZ8AU-_576eqWd11dEzcL2roQDlU3oEMhBwsdNarbDC4SBQ70IIDBdHkXGgrUL3U3G70IM7G_wRtjIyzebu60n1U3689IWTG1maTriFQgIZeAfHMsbDB2VjFHjb1T5pyi3fX1jruwHZj1uv5xs66gGpPsbtUBemkMzx/s320/BO%20Seo%20Nov.png" group-title="Bolivia", SEO TV 3 Novelas La Paz HD
-https://live.seo.tv.bo/live/3SEO.m3u8
+https://live.seo.tv.bo/live/SEO_3.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBiX5t5gWl8QSYfzJxwYwJOPaxcRU9tIZFQmuteFceZHkzI3KnElV1-K6bbvPV1jJkk_ms0Sz_CE6Zfk9GnS9CD6AsCERhmAzKICBxMloF0eeT8vMZ8wM5YVm6_eZIsHOs26YgDMODL0-di2yyWuvmOm_ovGzhGgM9fgd4Nz5DKI4DBvCAVjs3NjIJNFsD/s320/BO%20Seo%20Peli.png" group-title="Bolivia", SEO TV 4 Peliculas La Paz HD
-https://live.seo.tv.bo/live/4SEO.m3u8
+https://live.seo.tv.bo/live/SEO_4.m3u8
+#EXTINF:-1 tvg-logo="https://seo.tv.bo/LOGOS/LOGO_SEO_TV_DEPORTES_HD.png" group-title="Bolivia", SEO TV 5 Deportes La Paz HD
+https://live.seo.tv.bo/live/SEO_5.m3u8
+#EXTINF:-1 tvg-logo="https://seo.tv.bo/LOGOS/LOGO_SEO_TV_6_HD.png" group-title="Bolivia", SEO TV 6 Novelas 2 La Paz HD
+https://live.seo.tv.bo/live/SEO_6.m3u8
+#EXTINF:-1 tvg-logo="https://seo.tv.bo/LOGOS/LOGO_SEO_TV_7_HD.png" group-title="Bolivia", SEO TV 7 Yungas La Paz HD
+https://live.seo.tv.bo/live/SEO_7.m3u8
+#EXTINF:-1 tvg-logo="https://seo.tv.bo/LOGOS/LOGO_SEO_TV_HD.png" group-title="Bolivia", SEO TV 8 Tropico La Paz HD
+https://live.seo.tv.bo/live/SEO_8.m3u8
+#EXTINF:-1 tvg-logo="https://seo.tv.bo/LOGOS/LOGO_SEO_TV_HD.png" group-title="Bolivia", SEO TV 9 Series La Paz HD
+https://live.seo.tv.bo/live/SEO_9.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm7NnBB2iYME_1hph2tgQPNcp2dS6KRfULQba_XgH-iaHkHh-qV3EPihtrWLOv_d3B2N9OgjBS7w0RrFBjLRcLGOFYKTP4fiZr8ba0SVveBQ5jFUYKqN-lqEAkf4Bnh3mGjG5rQz6JbITcJ1jZwNCI3jRRLGmAjdCieoKVQFA07YbfOLO3-2S2MNroOxYj/s320/TL%20Estrella.png" group-title="Bolivia", TL Estrella La Paz
 https://solo.disfrutaenlared.com:1936/teleestrella/teleestrella/chunklist_w788793687.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguq8bp58vxJ_n6rgsB0zgciW69nd6knQVBT7noeHdwsLQMDfE_zVTa_F-P5cA-NyB001gMnWE1EHpdFs_tOLVXKxHQp7AcaWahBGYuuBQ0FVnlHxUNritg3zd7OPDhQIfqKxWCohW2968Cn9F1Zx7AbXxoMf2juQEwNgfQqYcCqgiyVqRxvUvP8KkB2YJe/s320/BO%20Solidaria%20TV.png" group-title="Bolivia", Solidaria TV La Paz
@@ -192,8 +168,6 @@ https://master.tucableip.com/live/tvlatinamontero/tracks-v1a1/mono.m3u8
 https://cloud3.streaminglivehd.com:1936/8068/8068/chunklist_w1241532496.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_NwjYiWwa6rl4uw7WvIGdp5ddxv_BufjPWA3GF_2I3Wag1EL2PQssWqcCE4Z43ZMUIcjE3LmO8pbtE-TwZ9qPU7otez0yovq8_FL9QxmhZWew11VFW7sjylzMD7FL5y-weACBnNixromU4nVxW7vs87kOqnF422e3MSNLFZZI7pV0UCU1TQO-oELs_RrA/s320/TVU.png" group-title="Bolivia", TVU La Paz HD
 https://video.live.com.bo:3731/live/tvuumsalive.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5Zx7pI_BRgHNSUs8eboVsrlJgdt9QM9pDUgb3IpAa25kaVrZehn1559JEUN3SaGCXbS3AztDKVZpUDnzDqAqShBgRHddwDT1dVj7gdY7f7Kx13D3pjyBjWNADsd1VjKTWqY_5P1vAUudZ8Y7mHHdMmJ70oG2kn-xsi2-SsQqujvgJPcp9OzHagnQnq1lj/s320/Unitel.png" group-title="Bolivia", Unitel Santa Cruz HD
-https://stream-04.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZQPBvvzD4clkD_nQuib-VQCkpzXs7Dt29dBy9wOXaKBH)/dm/3/x7vsezg/d/live-3.m3u8#cell=lnyc
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEholF1-DOMJaX4VaY1JdRwewZX3lxpRmE1xvCJ5V1eV8YYhsCvlV3BZZy97AZb7ojIwEtld7Y2AytzOaB9SbO2MBRMI05Dwth3JVTNsMReUnem8j6BS6bCjOIR1w8wk2mdNN_S09vBHSnb3Ma6oIawMw53KbIEe3Ix6Iqj_WTvZqCWlgXdge73ZWmd30K3f/s320/Univalle%20TV.png" group-title="Bolivia", Univalle TV Cochabamba HD
 https://master.tucableip.com/univalletv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinmMOq0QoGYJ3gJSJxi_zvoKeAnltqtp41aQshU0Bk5uOPTGm1x-EjjASbvX7x2rQtMVlXmNjSfhFyfLcLhiwhXiIcSsjvooz6IZzoYkdiu9JU0VkatTXmVVxAOm9X_ilsB1RytjnduVGP1O9jlf7UE5gjNLFxS8zNmaI_8YP2A54HCsKyhgmcwF56ERVj/s320/Universal.png" group-title="Bolivia", Universal TV Santa Cruz
@@ -205,8 +179,6 @@ http://136.243.3.70:1935/XtoTv/XtoTv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvQnlArVn1Vhw8_q_GpFRv9iGcXT6mcdgBfymQt-m0rmhW48H378KTl_HReaFl6ZZsFOsusNa61bxeTM1XhuNtdc06FDJG3rwRtEsmA_El3KHNF4qgLGTVRqIZqRH6-ipaWRAovGpaK75aaGaFCpLH0bMjwPZyjL30It_71lf1ezr9eCV_UaZJGw3y1ls0/s320/Adesso%20TV.png" group-title="Brasil", Adesso TV
 https://list.iptvcat.com/my_list/s/36a2769d9286813bd9016f81b52bd6aa.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0kU6hJnK-_elSeXP_eXEVRImxxP4uDtpKz4unyXE0Evl4y3C6GwldkyMLqfEnImP97XdeO5wLRyAkgfGsEN8I_2SzvSH5S0G0LaZds9MZvLsYf2HYFm101tNwXIOiYbEPo6J0sPYxnJYfjpzgTZjOkZwkoF8fPuwUbfuuNWENv1nYrqsiHtm_cayw6xFX/s320/All%20sports.png" group-title="Brasil", All Sports
-https://list.iptvcat.com/my_list/s/bbe1b315f55db6698ab17c92f7391d1f.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrkHDPq34m3YGr7jhq9IaA-oEAVI3cDjKHeW2EtLfEFvnHMHYTwSGcLgZ_yaCeX_p9SdFTejDqGcOtbi53d-TSb2n6iulxsk9vUl0kJpZguMtxiPdzvD1nkfvUj3iZ6scY0KWZlEYA0rQK4deTEbs0fYU9NIsfXuwlB-8p17JbrnupzbopJSOjiBacUx-C/s320/Amazon%20SAT.png" group-title="Brasil", Amazon SAT
 https://list.iptvcat.com/my_list/s/fc5b7347289d1070cf0ebe886672a2a4.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWBikcOP_I9qZKd4XLilRIhMf6_IISDs2t3zMoJKlT3a0T84QaZR9EJZdtCEWJtOiBex3RZYvD_sCEmJbqBRRRILYmYqHwFEVXYdMVqzUdEVgGBmnPp_rzatcOovquIQ-3kyozK-IVjm8U6F7tCBNeVDWORg_fyIyUu8uos9Udjl2wsN5HE1hMHx4ETdoR/s320/TV%20Cultura.png" group-title="Brasil", Cultura
@@ -226,24 +198,12 @@ https://list.iptvcat.com/my_list/s/78995cc35aa74a6d1e1d563552eb9b6a.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggW8njsNbUiLF70H84g9MdxAU5bp60AeU27C3Aca7nVI2dSr4cap36ZVKLI5Ot_lCnykZT1ZrvOJdG6azJGBWcNlkn1Bv4FOXMfyJJErV3OfUbn6gbExK4GPpsugItCiLTEPrm3BeW2Pr9GIY5RSTF4z4XCuxUCZ-JgUi9-Rq6dLOgWR7qL4Yd85kBOf4v/s320/Alsacias%20TV%20Honduras.png" group-title="Centroamerica", Alsacias TV Honduras
-https://list.iptvcat.com/my_list/s/db5e327bd02507c21bb7703537e7352b.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3IilorhQnSE2TVnnfrwE-g64sjn8O7ECHzxS7UYFyF_Hkr6JdQFbmLB4oIeYKn9xcoLDbrvqe4eL9OxyyjSRsmorKhkBtUG1FqBs09DCskrEK2qoVGpcucxpsleXWGCsKMhdgSAJHiosXx-1NwXx9C8JEn2sgx7K7bIRQL_R1ADcTNKN9_wqyQGi7Ud7f/s320/Choluteca%20TV%20Honduras.png" group-title="Centroamerica", Choluteca TV Honduras
-https://list.iptvcat.com/my_list/s/dafc4a7a88d712fb867e30b96c301af4.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyw8YHoT3VmogqOdWjlEmcydnX9RhE1NBjJM3gRgxljjSkwVcwCMuYw4XMGawdJ1y0ZCjzxkJKhh8jbE8fTqfHRTEzq8u3HZxtCtx6qP_HLqYxrQMsd8on2gyiKG9YQUtOhVbEZpLp96Qf4cPviQaVQu17dQ7UinCnPMSi5kYsFopZDLAZ3MvKpsLxrIKg/s320/CE%20Dan%20TV%20Rep%20Dom.png" group-title="Centroamerica", Dan TV Rep. Dominicana
-http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8?
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiO0nvnB2nNnz4OiHN27j12GsxBJrMNUJx_51b1K-QhzHY_cC-lMt9_lN2XXyHg4WwVnh_vJyhurO-IMcTk0Du3Z54Fo9u7MOmf8v1vzm0BsNJZMl4_33h6hkuS7P6u4htSEYWPPU-cESn11r6Lr8tNEsgo6zNebqZn6jRdhOpPLGUbMcv8Ohbvy9N3zyvV/s320/Metro%20TV%20Honduras.png" group-title="Centroamerica", Metro TV Honduras
 https://list.iptvcat.com/my_list/s/e5bebecaaa296f1ff691a861d9a3fa1a.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgg6qnpnadwhzbQ1Ctmufc02ZQozKENUBnS8mbtZzwJXbzmlTuqn18SzFSsa-c9tT2DqhHBiYIE3Hydt1w57m0yAbYkgDjdQXKgVwNlxwRwqyfgyAplxQja7jo3E_Vt43_JAKC4GMlpx3r9to1YFoie9RbtHTv8fA1v-va868l0fST5uJJsIdbPdvza1OHQ/s320/STV%20Costa%20Rica.png" group-title="Centroamerica", STV Costa Rica
 https://list.iptvcat.com/my_list/s/e2cdee5e838c70a0a2f888fca8c7a2d4.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6Um4YHS0BXdOQFLesdBMGS3iercQA9-tKNpVHBORTbMhq1LPSKU4y5HhWzKg3YT5-F4b5y66GKw1-hIsQ9BxiA2VKUgxMZy667rYM1nsb85NRvK0eyRbeskDLXDWdfEmMQoP8ogrJg1NYv47kfutVp1AdRdMC7t42d7OuNOjartTZTKOoLSCgeMvcG5ez/s320/Tele%20Cibao%20Rep.%20Dominicana.png" group-title="Centroamerica", Tele Cibao Rep. Dominicana
-https://list.iptvcat.com/my_list/s/472393f41c29934f05a661df24bb02f9.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5M1MGvIPM_E1ut3VRfhEipzhLiF50sO8w3T8MmrCTFv8Qan0WyHooCX8GzTG5AiW7SiWnm1rGa3I0iPJwL_7L1kv_ps5y21jnyyRN30K8FiS0KIOvxYz2CMrNJInL7XXT58IPyajS5Zq0oDeMbpKWLYqH70n9zXywEmU-M81aV0O8e-mnadYj0UZkBXLK/s320/MEX%20Ten%20Canal%2010.png" group-title="Centroamerica", TEN Canal 10 Honduras
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLu4yXRnMCF1uwWVs4HpQ9wTE0EbmUN5f-eCVrEounXUHOI6Nak1eTcGQB1u4HionCzbi9vLKdNGQ8HDkG8u9EE7zhGXN_j7EHX1Z1SMDBvtRTIvtqUBc1bCN_mPRN2we1XCf1RY5Tf4i2fkH836TF6w1yHgihx5QNHliE55KnCwy7GLqJJBq_mHZll5lK/s320/Vos%20TV%20Nicaragua.png" group-title="Centroamerica", Vos TV Nicaragua
-https://list.iptvcat.com/my_list/s/4fc65fc1619978915bf2b939f387feb3.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYTvlRWVRVe5azdOiw-FpX8J4KR9nYT_xWox09NiP7VwtkFzqhPIKtMArWaaqwpZSTqtlAjbSs4K4pk9BqmtLxrc4IZLQMPozxUHXAjLDS0Wo5cC-S9Jy-E8-hObfRuTIsgLQG_3gJNvki29sPfPk5ZU6m65YYKLoB_apXIvpIg7JZ4rDY4RWUAPQFdPsv/s320/CE%20WOW%20TV%20El%20Salvador.png" group-title="Centroamerica", WOW TV El Salvador
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJsLSsW0O0lO2TdVZt9HqahSi1q2qvk0lr5NUfL4XSqKjOmCbpU6HeNL0WmjFnT4HJdt1my2dBL6HXeWm-hbRcCOlhjDSqmtDa9wMR39iACeGS3W7_QMBC2SLeanRrxw3bnnuhkZ_qWbIafvT0X_O9T43nQN-Av_P0IiX4W-Vam2Y5RENAeD-2C9d4XM-7/s320/WTV%20Nicaragua.png" group-title="Centroamerica", WTV Nicaragua
 https://list.iptvcat.com/my_list/s/994a3dafdad569f8aeb0155f7dfd5abd.m3u8
 
@@ -333,8 +293,6 @@ https://i.mjh.nz/PlutoTV/60a286daf888610007669801-alt.m3u8
 https://i.mjh.nz/PlutoTV/62d08af527ce19000731eaa0-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e8397936791b30007ebb5a7/colorLogoPNG.png" group-title="Comedia", Pluto TV Humor
 https://i.mjh.nz/PlutoTV/5e8397936791b30007ebb5a7-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60492bb931054f00073c0b4e/colorLogoPNG.png" group-title="Comedia", Sony Canal Comedias
-https://i.mjh.nz/PlutoTV/60492bb931054f00073c0b4e-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63d7a8e5a9957100086bfc23/colorLogoPNG.png" group-title="Comedia", South Park Versión Original
 https://i.mjh.nz/PlutoTV/63d7a8e5a9957100086bfc23-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f28009b150b2500077766b8/colorLogoPNG.png" group-title="Comedia", Vaya semanita España
@@ -401,8 +359,6 @@ https://i.mjh.nz/PlutoTV/60492fdd9989d30007ccd30a-alt.m3u8
 https://i.mjh.nz/PlutoTV/5ebc8688f3697d00072f7cf8-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/638df6f8b63cf100075ccfa1/colorLogoPNG.png" group-title="Deportes" , Chilevision Deportes
 https://i.mjh.nz/PlutoTV/638df6f8b63cf100075ccfa1-alt.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhc-YduSN-UiZlsTy7q-jzHHiK1DNJ4zmJlL3dw3hMrSe1LtDsthrg5maTVElOI_F0k7ks1pg3VPC35UX40ueTQ9hQSY-GFdbbwz1KXmwmUL01Tyh0wF5iOdabntXgWIpM9SkTt0kH51-B99iZHv8fY55zw5i_ayNeLNyUQBJvFDTZJSJ5cawUrNtlczbbC/s320/BO%20DT%20PLAY.png" group-title="Deportes" , DT Play TV Bolivia
-https://tv.portalexpress.es:3044/live/dtplaylive.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5812b0f2237a6ff45d16c3f9/colorLogoPNG-1543864366762.png" group-title="Deportes" , Fight
 https://i.mjh.nz/PlutoTV/5812b0f2237a6ff45d16c3f9-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6144d313b34fbf0007107714/colorLogoPNG.png" group-title="Deportes" , FUEL TV
@@ -433,8 +389,6 @@ https://i.mjh.nz/PlutoTV/6334a574605f140007e233c4-alt.m3u8
 https://i.mjh.nz/PlutoTV/5dcde07af1c85b0009b18651-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1ac8588734f8000823b7de/colorLogoPNG.png" group-title="Deportes" , Pluto TV Deportes España
 https://i.mjh.nz/PlutoTV/5f1ac8588734f8000823b7de-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63c6e37e636b7e0007ccb635/colorLogoPNG.png" group-title="Deportes" , Pluto TV Futbol
-https://i.mjh.nz/PlutoTV/63c6e37e636b7e0007ccb635-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e98b0447665f200078caded/colorLogoPNG.png" group-title="Deportes" , Pluto TV Peleas
 https://i.mjh.nz/PlutoTV/5e98b0447665f200078caded-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/56340779a738201b4ccfeac9/colorLogoPNG.png" group-title="Deportes" , Pluto TV Sports USA
@@ -456,12 +410,8 @@ https://i.mjh.nz/PlutoTV/6080381ab7c9ea00074ec64c-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEWlQU54K0YPidwMytY3HnbQg2ssdqSoQqBl4WjQt8WOjaDsi93elSLCG2IDLe9wbXzfh5pImhZSsf4vrDZMCZUwh2vbBh568XUYKE9EljAjxTaXz8XcmupbUy6Bz_aLI0L7EaTOVWvwD7qzDHfgQc4QOggBY_CilyRVpbu5n6XQLjy95jjtlVwEfSttlJ/s320/Ecotel%20TV.png" group-title="Ecuador", Ecotel TV
 https://list.iptvcat.com/my_list/s/0a60282a2b84526a97894dafbcc245cb.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdOz3nqbgRSHFIpRkVUI81KgCQN5aa8Vi13I4-vnMxWfmz0L5ICs5SgG6RDzxQHB4fYBn54hPXRf5mBZR7kiNo2hcAacs3hYk402-uy-s46Jp4XkoPjhuJveDIHYXNxCxKt_1lHl4bTGjcnzDCU255Lfx4LFgV9iz95ui7gsnRcBcvB-pNcl04CIcRwpHT/s320/Educa%20TV.png" group-title="Ecuador", Educa TV
-https://list.iptvcat.com/my_list/s/a64efd9893abd284fadbc816339edb80.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7rgRdP-hXFyC1P5ApC2Bxs7sWRz5aaCDcx8NBnGCZlep2pf9eE1e1dlUENe4Hxut79rqMNvx-FZ04dc-a3ZMjJ1HgD-CIj9whFjGD9y5GOdyfGxt1YNO5wGYjtBoZtb7GY6h0LVA7xDC3DHlgTvqyfnI45lpsbCRObx9BsisSIWh4moi3MM7ZJrtAOdzA/s320/El%20Sol%20RTV.png" group-title="Ecuador", El Sol RTV
 https://list.iptvcat.com/my_list/s/a3865a41fbd3f0368a73483a6b4fbd11.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguEJp5fK2JZL4LYqzkCmhS100cM4DLH1G-YidK8zkwMHG8s8JM9Sj7K-8LfQS7sg_crOY_DOAzbHVK_j49Kc4dNNTkb1QUA8Dg421MPMHJq-Ki7u2Dccy-K_wxVQAPXyONxWucnJarSo-WPx--4ZwpB9GLGgz1aeo_WKaYJNaqkLjSxBsgicxMgGy8MV1m/s320/EC%20Hechos.png" group-title="Ecuador", Hechos TV
-http://37.187.7.106/hechostv/live.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhV0tukeYBmYQjfcRviyoJwXs2IZFcpSkYP-Oc73BesIiXfG8b7zEphmMTihfw2sSwHIjA2EJomLEwnLQSbc8GySnGmHPK8-KXiDYBMN-984DR7fiaBmpNByg7EdIo8_OCtGidOUH3qBTTsUGcBOCs4dfbPk2j2y-sOR7P1qi3rbM6bBadbLEyOVxbkuuHQ/s576/Multicanal%20Catamayo.png" group-title="Ecuador", Multicanal Catamayo
 https://list.iptvcat.com/my_list/s/902196e3b91d987fb5f61554df7e7544.m3u8
 
@@ -470,12 +420,8 @@ https://list.iptvcat.com/my_list/s/902196e3b91d987fb5f61554df7e7544.m3u8
 https://i.mjh.nz/PlutoTV/63eb907651f5d000085e4778-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62aa5740a47b6c000769f407/colorLogoPNG.png" group-title="Entretenimiento" , Chilevision Contigo
 https://i.mjh.nz/PlutoTV/62aa5740a47b6c000769f407-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/647f7f8d8e3c0a0008d552cb/colorLogoPNG.png" group-title="Entretenimiento" , Gran Hermano Chile
-https://i.mjh.nz/PlutoTV/647f7f8d8e3c0a0008d552cb-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f9afb01816137000737f799/colorLogoPNG.png" group-title="Entretenimiento" , Nosey Escándalos
 https://i.mjh.nz/PlutoTV/5f9afb01816137000737f799-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6320ddef274b1b0007b2ee88/colorLogoPNG.png" group-title="Entretenimiento" , Reviví Gran Hermano
-https://i.mjh.nz/PlutoTV/6320ddef274b1b0007b2ee88-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/colorLogoPNG.png" group-title="Entretenimiento" , Telefe Hits
 https://i.mjh.nz/PlutoTV/5de91cf02fc07c0009910465-alt.m3u8
 
@@ -485,8 +431,6 @@ https://i.mjh.nz/PlutoTV/5de91cf02fc07c0009910465-alt.m3u8
 https://i.mjh.nz/PlutoTV/63974ebedcd9100008c2f59c-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ee8d84bfb286e0007285aad/colorLogoPNG.png" group-title="Estilo de Vida" , Pluto TV Fashionstream
 https://i.mjh.nz/PlutoTV/5ee8d84bfb286e0007285aad-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6140a074a99e79000738162a/colorLogoPNG.png" group-title="Estilo de Vida" , Pluto TV Fitness España
-https://i.mjh.nz/PlutoTV/6140a074a99e79000738162a-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6ab8056beb000091fc6b6/colorLogoPNG.png" group-title="Estilo de Vida" , Pluto TV Hogar
 https://i.mjh.nz/PlutoTV/5dd6ab8056beb000091fc6b6-alt.m3u8
 
@@ -552,10 +496,6 @@ https://i.mjh.nz/PlutoTV/5f29ada4bdaebd000708d49d-alt.m3u8
 https://i.mjh.nz/PlutoTV/60493283ffc52f000710edae-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG.png" group-title="Kids" , Bob Esponja
 https://i.mjh.nz/PlutoTV/6254598f5083f800076d8563-alt.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioAYiOt-u4hMA_0dqIb6nhtUx1imIzXAcySWCbF75icW5CmQHAUdrK3cJjz22hpLCw98cXazBBDMEt2nbwXXV-j0KYCbseiLvYWRrsor-MEZvy0VOdynNoW5FtNC4ZfWrvAtk4HvrC3DLH_40JIj1YJIpSJMi4l9-LmXuCieQ0QylWm761Y8_1Gfd6rvFj/s320/Cartoon%20Network.png" group-title="Kids" , Cartoon Network
-https://list.iptvcat.com/my_list/s/e5746d5909a9360411d72ef01a2efe53.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilru0AKcv8wCsQaMZzqkkyw9UJeKso4y0EPfSImImuJnx3O8jcrh9IeUqy8sPvdbOpMLft_zq0Q7mYXNRUrEwGxwWJthcrnsVe05dMrgAQCvsi94SCF08jE97_UrWRnJ7w05W0AtXNGkoNi8ajI2lOjSR1ow3yue1BkbrVJkDQmy_vJPT5Nu_W01B8o9MX/s320/Cartoonito.png" group-title="Kids" , Cartoonito
-https://list.iptvcat.com/my_list/s/6703cadd9ff48a90b6f47da7b24e1f70.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d14fb6c84dd37df3b4290c5/colorLogoPNG.png" group-title="Kids" , Dora TV
 https://i.mjh.nz/PlutoTV/5d14fb6c84dd37df3b4290c5-alt.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiK80V3ZyO0eVTSPWS-O_3lMx4pYbQzFG2Za3_Pl1-NwShYeUBBmdSWlOOSADuWhldsF5CcvNnDFXnmQP62yjHI08lpMRhwmwM6FLwtOw7xJFAjB_u8XQ4iB380jYWEZS5gJbAvI66yCaO37zGkCu4CC7oCml4PLL7eD7GWDXOy53zZyrqtcvbrUtlIzXP1/s320/Dreiko%20TV%20Panama.png" group-title="Kids" , Dreiko TV Panama
@@ -580,8 +520,6 @@ https://i.mjh.nz/PlutoTV/5ddd7c348520b40009c347e2-alt.m3u8
 https://i.mjh.nz/PlutoTV/5d8d08395f39465da6fb3ec4-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/colorLogoPNG.png" group-title="Kids" , Nick Jr. Club
 https://i.mjh.nz/PlutoTV/5ddd7cb2cbb9010009b4fe32-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d8d0ec7b0f7015fbe0a3bf7/colorLogoPNG-1631631965767.png" group-title="Kids" , Nick Jr. en español
-https://i.mjh.nz/PlutoTV/5d8d0ec7b0f7015fbe0a3bf7-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6202ab549654c800076ee13f/colorLogoPNG.png" group-title="Kids" , Nickelodeon Rocket Power
 https://i.mjh.nz/PlutoTV/6202ab549654c800076ee13f-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/colorLogoPNG.png" group-title="Kids" , Pluto TV Junior
@@ -590,21 +528,12 @@ https://i.mjh.nz/PlutoTV/5dcde2ac4bc6c500094ab45b-alt.m3u8
 https://i.mjh.nz/PlutoTV/5dd6dae8ce788b0009eaf77b-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609e7e423e9173000706a681/colorLogoPNG.png" group-title="Kids" , Pluto TV Toons Clásico España
 https://i.mjh.nz/PlutoTV/609e7e423e9173000706a681-alt.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMamogKwOavRV6sB17cnEuEbS7pFaXpPhkRq17mh0kvF38_hITiYYx5fD97PAh66jDL1uvaCl7AfRQjLJ5i7adCuQdSDbfkDTIFMnXYMR_Bw0OAaRwCZOEu52g_NGF_sxtJ3_WijRVPqvxMyIvhMw1jU0gvxWTZ40h2434YP8YwDv9QDQ1QC-x2MAgwTER/s320/Retro%20Magico.png" group-title="Kids" , Retro Magico
-https://list.iptvcat.com/my_list/s/6b5a6fed29bfca76ed74435627f056c1.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/colorLogoPNG.png" group-title="Kids" , Rugrats
 https://i.mjh.nz/PlutoTV/5ea7215005d66d0007e8128a-alt.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidSIMX56mVarJB_1YZGm1wrz7xoBLp43FLxccLrH4eD7jrEt4N9HuFyKevIwjKRVTh1uxT-fRVEL99hHyDFq8ioqhMQ_TC7hwPfMa4EgdAxp_SIlNhVnvaY_SLBj1dojkhbmHdNeIrtNkm3Fk6VrYcSGvESkU83oxGCkIeIE4iExfyDi8igX0EPSuU_EuO/s320/BO%20Seo%20Kids.png" group-title="Kids" , SEO TV Kids Bolivia
-https://live.seo.tv.bo/live/2SEO.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOnzKINPrg6vC3AEp-TEu2c2_wmFgaXR44E7MlT4TP4y1bq3l4kKhAv6iszYUmsZGE8H-RLnOORApCQkJdRT9jCjXFuIG42AmWEgAiRUCF62S9Y1sx26bGLZmZwmSPdrYtkO8WlYBxdSgasWmpGTdNnsBfBHxa0Jvp81tFWL7Ry0Ut2KTzyBT6FywBMRM9/s320/Telemix.png" group-title="Kids" , Telemix!
-https://list.iptvcat.com/my_list/s/30429f56c469cc98f5f77ab28f399de1.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSpOsxkdlCqDhR7-PQElfxGYoK3KIRdaYMH471MTUEQYu-Q6IJZOIilGaJwsDM1nHOsA1xRoKE4S2z9DBuYfGb6I1oiSt_CnPC47_i8zecHgwKnhloIpIr3lWTQBeIZURRsp1S9TD7WICmxeKdgZ2vKYIrdTi7DLLu6Da4WwKAkrbAP-Uxt4u6ew97kGGF/s320/ADN%2040.png" group-title="México" , ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsBQKZsG8Tg4rlxQDB1EpTRmOuhT8PHQ17jeo_RmdUU9Ho26gyzbNvM5PGy2SmL2liCf0L0U_1LWRWlH8zNugCI2GVS23tCYJ_BloYWZRVVpjkh-5G9Q45jia1IhQEoMiPIpfceS1MjxxhdQRuYoeWwPRtaXKdMcdoRlBYP3EwnPoZUlqfzHHmC66clERb/s320/AMX.png" group-title="México" , AMX
-https://60417ddeaf0d9.streamlock.net:443/montemorelos/videomontemorelos/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEeXe5ig-taN9ldkMbFPL5twsTah5V-z-VEIMl-Kq9XN0uco9Jp_bhoz4f0IcpRV0QNgAb-5oq3seCXAXbmvulLaHFyGZ8Pd5RWxYoc_mVDsuhTlONz2N9EdglRBHrRjWqbTwxPnW2Qe8JonHkPuJ2Ixz2wRA_eeaYIWnqm0M7kWCys4RfWsEXKHYb1PDi/s320/B15.png" group-title="México" , B15
 https://list.iptvcat.com/my_list/s/1e72cbd6bba0d67f6e6737cdb5e34af5.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKh7cH-OtRtZXoCsGHoV4xENyJC2BEZs65TultxvmKgkW_X97g4txDN5MtKrkrwEvWn-4ruIFDc-tcdLeTPCTGhYPxFyt1KpnJwxtX-7l4PsgiiJ9NFxPQv2DjNLNSL_H4luNcsSmKLGJoZMt2fWWE0rQrz_vBPRSboYKeVnAI_Cx5IMuGqtPZSmgZ3_MG/s320/MEX%20Canal%206.png" group-title="México" , Canal 6
@@ -1052,6 +981,7 @@ https://list.iptvcat.com/my_list/s/354403c4e78aa5d3117e70a146587a2d.m3u8
 
 
 
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60c25ec6da6d6600074233a8/colorLogoPNG.png" group-title="Reality" , Acapulco Shore
 https://i.mjh.nz/PlutoTV/60c25ec6da6d6600074233a8-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f280149cec6be00072ab1fc/colorLogoPNG.png" group-title="Reality" , El Conquistador del Fin España
@@ -1089,6 +1019,8 @@ https://unlimited1-cl-isp.dps.live/isb/isb.smil/playlist.m3u8?PlaylistM3UCL
 https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/us-east-1/734546207001/profile_3/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKUBZhCUbcmZ9VnbPzzfW03azsFpnr5TWmE8mh66SIqViw1R_EXQxfaOT9IsqASnwNMCG0xGaHeUtS8wpTSTyjlq1L0dQc-aUjc0y5y6D-vzWp6avemqi1nAX3YZGn-QDM0kZtx9oLUyebHJcq-02GZ72F2W9SlSyv-ssvprI1R6LvGTTaV39ClXRDhCk0/s320/CDM%20Puerto%20Rico.png" group-title="Religión", CDM Puerto Rico
 https://list.iptvcat.com/my_list/s/06f24b2c2d0a1606fbcf20f071eb40de.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3IilorhQnSE2TVnnfrwE-g64sjn8O7ECHzxS7UYFyF_Hkr6JdQFbmLB4oIeYKn9xcoLDbrvqe4eL9OxyyjSRsmorKhkBtUG1FqBs09DCskrEK2qoVGpcucxpsleXWGCsKMhdgSAJHiosXx-1NwXx9C8JEn2sgx7K7bIRQL_R1ADcTNKN9_wqyQGi7Ud7f/s320/Choluteca%20TV%20Honduras.png" group-title="Religión", Choluteca TV Honduras
+https://list.iptvcat.com/my_list/s/dafc4a7a88d712fb867e30b96c301af4.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxLwvnCdYRCfHgoSxTGeYYYUci7pclAg2VZ4VbGH_snrqn6hd37AV58FA8gv6Km1EogtRF1XCULc_Ek81oANPRYmVIhejTb5ROryvkFm4cOAxSTrBaFd6RtYdafw5SMbMrOK6S6qPivSf98druU9Z-Cp2rvMsGSo06fuegIso9zv6Oon8CuRTe0kQGChDs/s320/Cristiana%20TV%20Espa%C3%B1a.png" group-title="Religión", Cristiana TV España
 https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnrV-_24_5Ihd80JifaRT8riNXCnhIf9qhmhbxpZHYgKox48gfDzNtsExVKXjSZpMdoKaTCeeZknZE-Xvmt9yXm0p2dO5twUDA-RWJRC_LgAxCwluj6nCg7qCuk7Hy0EgZSzup4PXrz2Z23LjANDi3jZju7v5Q9M1637d0yA517OtiuhrYkyM7_lQpiMLe/s320/CTNI.png" group-title="Religión", CTNI Internacional USA
